@@ -1,0 +1,6951 @@
+{
+  "metadata": {
+    "dataset": "answers",
+    "model": "m-deberta",
+    "prompt": "normal_prompt",
+    "num_datapoints": 500,
+    "gold_label_transform": "avg_sign",
+    "classification_performance_metrics": {
+      "f1": 0.7537091988130564,
+      "precision": 0.7650602409638554,
+      "recall": 0.7426900584795322,
+      "accuracy": 0.834
+    }
+  },
+  "data": [
+    {
+      "id": "8b5f38122cf5e06521fe1b5fc7e9bf42.6",
+      "text": "Brief idea of what you should do to START .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f6ffe1b5d640d4a7284657b08a855509.476",
+      "text": "I chose somethin ' else .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "41ee00c58d2f7b88d91f05558d0b094e.0",
+      "text": "Idk but its bad enough that you do n't want it .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "87d1e1a8bc7229dd9cf20c3de2fd5851.3",
+      "text": "Is that enough , or do you need more ?",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "464b66079997d0b47593434eb84496a7.3",
+      "text": "have you ever use torrents ?",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c82f3a969d2d1ed3aa4c3bcee28b12cc.0",
+      "text": "Whether or not you think a wine is good is a very personal thing .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "0ade0eaccf9d72704f89b809ac3582b8.544",
+      "text": "Do this three times and the building will collapse .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "f6ffe1b5d640d4a7284657b08a855509.232",
+      "text": "For a few seconds , this place was Armageddon !",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "3ff449688fb5b323845c4b2ebd304115.0",
+      "text": "PC 's for Dummies",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "70815c114319a9b06a6cd9503d929413.79",
+      "text": "When we are through studying , we need to leave that environment .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "139fe547a013847376b749e4e3a17050.3",
+      "text": "definitely try it ... i think you will love the results .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f7c6d0e31a76cea0cd330a01535a83c1.0",
+      "text": "it would n't be a good idea",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "244531edfb4392fa147a6c3fdc606238.0",
+      "text": "SPAM is owned by Hormel .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "0ade0eaccf9d72704f89b809ac3582b8.179",
+      "text": "Turn around , repeat .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "47184c64b526dbef4ff7d9f6eb4ad647.2",
+      "text": "Sarah 85 pretty much has u covered .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "838bfc7a760f99c1c033da21105d4a94.0",
+      "text": "I think what can be controlled is attitude .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "67ee25041bd7cdde3ccf440e014df2a7.318",
+      "text": "Instructors are responsible for establishing and publishing the grading scale applicable to their courses .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "19b4eb40653e659e657d28be2d189d6d.2",
+      "text": "Read all you can about budgies/parakeets and do all you can for your bird .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "1d72e447b97d12fa4b92cb145e2bc573.1",
+      "text": "and What are you good at ?",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "d5884f6b2ad1ec134541b5d1be421a5c.5",
+      "text": "It will only lead to trouble .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "aa1d702856ea53a420c3448718e0c2c7.2",
+      "text": "It starred Peter Sellers as `` 007 '' .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "6dcbadfd6a6ee7b3590ddf2e3b88b71b.2",
+      "text": "I usually add the favicon in two formats to accommodate all the different browsers .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        -2.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "70815c114319a9b06a6cd9503d929413.156",
+      "text": "In fact , we usually make things worse .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "2943e9545cd6b52c0082ece63a393375.13",
+      "text": "if anything , you should be coming out on the better end that way .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "0f49604ad3a00506babd3e0dce843d85.1",
+      "text": "All Idiots Die for Sex ! !",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "a0bc89c59194de89e9786138189a4f78.0",
+      "text": "It could be your waist .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "a63ea1d669c89e746c3227a4c6a6b348.1",
+      "text": "If they recommend at least 300 dpi , do not make it any smaller .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "7499d9e3fca5836a2378c57629fb9279.2",
+      "text": "Sorry that happened .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "07a66c9809fd07c30700ee97ed85b3d2.2",
+      "text": "Or are you a Contractor ?",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c5922d260a1340d14f1ca27ea846ca18.3",
+      "text": "Install Super Antispyware .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "caca4e2a9798cf5b6d29ce717d383864.4",
+      "text": "Adolescent sex is for adolescents , not adults .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "36dba9eefde3e2a444c93854bb23432b.41",
+      "text": "This went so far as having their own portions of the script written .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "22c8e58bba962e39b71dcc5400096482.309",
+      "text": "He would have a real feeling in those regards .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "f6ffe1b5d640d4a7284657b08a855509.837",
+      "text": "The only thing that really worried me was the ether .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7ddc418790297c31b1ea4357a6d53729.83",
+      "text": "The precise effect of anabolic steroids on LDL - cholesterol is unknown yet .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9f2d5c337468d68c42e493afe7ccd350.14",
+      "text": "Take the time to separate your hair into for or five sections .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "cf3c96e9c58ad79e1d28d8003e6201bf.3",
+      "text": "Grown : matured .",
+      "avg_formal": -1.75,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "70c42e45c806bda94458afe311d076c9.1",
+      "text": "a large coolwhip dish should do the same",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "355efe1b5c403457aaf9ab3adcf7286f.2",
+      "text": "Save yourself and the cat a lot of anguish in the future .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "bb464f34e3464e989feb75640e4902c8.0",
+      "text": "I buy wal mart frames !",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e5e4f59ebdffc9a85ff97914e1652637.0",
+      "text": "Yes , I think Iran is on their list .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "8da07259d61a92378174c86dfc5763cb.0",
+      "text": "The question , itself makes you sound like one .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "b277c03e247a7f71dfbe35091bdae65c.1",
+      "text": "If you ca n't pay cash then you do n't need it .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1be09472413b9707a2e237374ea49376.0",
+      "text": "a rubix cube and some leg warmers",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "a0d68c1b9636321832b1344aaa95cf0c.3",
+      "text": "well thanks for the points !",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "a6ef8f27fb55e1ab5e435c676592d7cb.2",
+      "text": "Of course there R ways around everything .",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "33c6af09783e7efe5b103da5f6492967.104",
+      "text": "If the file you want to retrieve is plain text , this will suffice .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "f33999a83fa7b319e42627340485ff30.0",
+      "text": "I ' ll see if I have those recipes and get back to you .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "546a29f231f34c283c5e8aaebe7b5d04.475",
+      "text": "It was an extremely hostile takeover .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "39588a8af9f59dda359946d4dc38f2c8.1",
+      "text": "I ca n't wait to have that !",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "272a425e9ad9733435c5e5baee6be838.8",
+      "text": "The teachings of the Buddha are called the Dharma .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "0c10cc9b1e9ff456182b7c5f375b5428.4",
+      "text": "You ' ll get used to it ... eventually .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "8b37352e1abe727223dffe0a3f7dc7cb.1",
+      "text": "it 's one of the biggest holidays of the year .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "cf9252cffeb3439ecfb9e6ddf337be7e.0",
+      "text": "Not to that song .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5bf0bfd8ffc869d536420c6277dcda5c.4",
+      "text": "sorry , the link above is the best your going to get .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "ccfab12cc62ab7f6f4f919d9178f74ba.11",
+      "text": "I know of many incoming first years that are from California .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "79681e7290c75c68b88d415a11ca2c0f.1",
+      "text": "that 's the worst thing you could do ! !",
+      "avg_formal": -2.5,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "fde93e015c6e1f2720e262d6b3ba5b1d.13",
+      "text": "Good Luck - I ' m sure you will have a wonderful time .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f6ffe1b5d640d4a7284657b08a855509.736",
+      "text": "Our energy would simply prevail .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "ff303b7c295b367aa25758c2528de839.18",
+      "text": "When the horse stop 's , immediately reward the horse .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "2d2ec622d0fcbd49654be51ebe205be7.0",
+      "text": "jesse mccartney pizza blond reading dylan laptop really bad blue lol",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "97d01831e860c2675ceab74fff179835.0",
+      "text": "used pianos on steinway in astoria queens",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "43728e1d75e42f218d80d6b04c9cab41.0",
+      "text": "teenage mutant hero turtles and chip and dale rescue rangers .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7365de77f93c35a5941295c288335653.6",
+      "text": "It 's not that expensive .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "b9a2f66543a81a1ca7807911a74090bd.3",
+      "text": "Beta Mail will propogate outward through the membership over a period of months .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "6702a1eb13e8c91cc434aec63132b8f6.7",
+      "text": "Internet is a rich source of music too .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9ca59eabb5baf318a387275793361f4c.631",
+      "text": "This , I fear shall alter my perceptions for all time to pass .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "cc3abf3cc813147092ffbeafc931fa13.6",
+      "text": "Acting like a crazy psycho stalker is not exactly going to impress him .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7bda4fac63bfe8ea73f7643c5846e632.0",
+      "text": "Her bag is her responsobility really .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3680b79fe900462911fd07827da830bc.1",
+      "text": "And tumble dry on low heat .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "76c982c11a8b9b1e0336e8267f04547b.1",
+      "text": "She first peels the shells off the M & M 's .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "d64485dda27edbed2574267bcb28121b.0",
+      "text": "Nope ... I went for something good ... Vox AC30 amp and Marshall pa",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1ea364ed5972a9a79c977684768aa3fd.1",
+      "text": "Same channels , but DISH is cheaper .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "4f03a4f3f716f1d00c2f7147fe53e3e0.242",
+      "text": "But you ' re still the most beautiful girl I know .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e8be6b3f3132ced20240ae17c4eee20d.0",
+      "text": "I suggest going to www.collegeboard.com .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "4450814a38ab8c70408052185c89f7d8.3",
+      "text": "We love it .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "bf31f06758a74d9c269f5857f6999952.0",
+      "text": "Whoevers chimney is leaking , they are the ones who are liable .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "9d97ec80fa5692c661c767faaf80589a.6",
+      "text": "It kills very fast .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "92400b588ff5fb56a0dfd18d74914444.5",
+      "text": "I know from experience .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "6869ff1a042d599c765c6986e3126d59.1",
+      "text": "We do not know how to predict solar flares .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "711ce89e2d481dde46127ce99ef84e77.2",
+      "text": "the northern exposure cd series of theirs are my personal favorites .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "649090952e175362e67a76f38e5b2262.1",
+      "text": "I do n't personally feel threatened at all - I ' m over child - bearing age .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7d5cfb0c45781340fc36a3c01c13bb39.2",
+      "text": "Find out her shoes size and buy her some super cute Steven Madden Shoes .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "fe2145d8dfe7f17909ed2b7c91a4b75d.1",
+      "text": "than if she comes back and you still want he good .",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "9ca59eabb5baf318a387275793361f4c.250",
+      "text": "By my standards cheating is getting involved , touching , anything of that nature .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "14e5193063fc7a28c330253b002feb5c.0",
+      "text": "Penelope Cruz , she 's more exotic looking .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "200d346996afbcc499344089e383b310.77",
+      "text": "-------------------------------------------------------------------------------- RHODE ISLAND : Illegal General Laws of Rhode Island .",
+      "avg_formal": -0.666666666667,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "ca21dc1a71ff993526b9a296b7a40c1f.0",
+      "text": "Stop with these questions !",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "9778f0d4e220ff4a17faa2485f6d42ec.2",
+      "text": "Albert Einstein was a pantheist .",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "7586c5123a6099d71dfcb0eeb7fd172e.1",
+      "text": "The ever tough big ten , ha ha ha ha .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "70558bb5c5f3c2d817e7d206b1df2dfa.1",
+      "text": "Our town has a 6 % tax .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "de773bbdb35acd7dfc8d78abca001e34.6",
+      "text": "Self - realization is much easy then framing and execution of tricks .",
+      "avg_formal": 1.25,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "06699f9ffe6f8f7f29eff2ea948d16b9.0",
+      "text": "Sounds tooooo much like `` Graceland '' ... you know ... Elvis ' home !",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "6d523c43a1fb88451428f21cda8d1a1d.0",
+      "text": "check this website out it should help alot",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "794a25ce85c4fc1e80c12d7c54fc53df.0",
+      "text": "A medical or pharmaceutical researcher .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "1bab02c8584fe0e0e2c673f92ed4f79d.0",
+      "text": "Hey , read your math book .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c2dd1007d9a0cafea5fea27452758442.3",
+      "text": "ahhh was it embarresing .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3d1a6e16969140f113ceb57fb2b0ed07.6",
+      "text": "Go to court and file papers for child support .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "452e1ecdc681b24231484b041f806af2.3",
+      "text": "We all have skeletons in our closet and anyone who says otherwise is lying .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "2a54ed672362de5cf2781d566752d039.3",
+      "text": "Surely somebody in your ( or his ) family can cook some food .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "33c6af09783e7efe5b103da5f6492967.359",
+      "text": "Order an electronic pizza by e - mail .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "5edc562c2b51f716d7e73a7434098585.0",
+      "text": "maybe you should quit playing games as well .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "690675907d7aed2fc86059b6aba0e65e.4",
+      "text": "But it takes some time to work completely , up to 3 years .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "e3587e7ee9aafc7d1560526a4fe1b79a.91",
+      "text": "The U.S. Embassy workweek is Saturday through Wednesday .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "385fa57d78ea54f06a48782fb2a9b540.2",
+      "text": "All medication and cures are waste of time and money ! !",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "9f3d3611759400ccbf08bdf752036f86.4",
+      "text": "So , more details please .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "83c68fe15c9bba283336a4001ef11b5d.1",
+      "text": "Do n't ever give up , ever .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "b21201cf294895275400423c394b0d0b.1",
+      "text": "If you dye it more than every 3 months it will become damaged .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9cd546c2b789d26ce9fb864093e24d1b.9",
+      "text": "i own this board , now .",
+      "avg_formal": -2.25,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3743bc82a0276efe39a60fed100e5fb9.5",
+      "text": "- `` What are my abilities ? ''",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "6411669bf69db45c1c208ef72d034998.2",
+      "text": "not all boards will support Registered RAM .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "2efac24a0daeb6f593455f6b10fdc5d6.3",
+      "text": "Go to borders and buy the United States guide book of U.S. coins .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "38ae790244e72e04ed85437056b52afc.261",
+      "text": "Nixon continued to use air power to bomb the enemy .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "eafffe41f56b7aec9e4df0791c97caaf.0",
+      "text": "I have had this problem all my life .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "822a690aa25ae631334f140b7b7ee7e6.5",
+      "text": "I studied abroad three times ( for free ) .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "d9db80ce0aca60bb48e6afc2425a21e2.0",
+      "text": "Go play The Sims .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "0d2ceed28c4efa0a5d4b0f25c2105771.1",
+      "text": "Not all Yahoo servers have this facility .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "874eacc7ea4c3f91a8d3d162b5db3c8d.0",
+      "text": "Rhizomes - they are roots or underground stems , as in ginger .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9b1606981587ac9b13bb92a5e16903b3.0",
+      "text": "The ones that are taken ... er ... yeah that 's a good answer .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "df7ce6430445201988735d22313be17e.8",
+      "text": "You will also need an aquarium vacuum .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "917bb9e443a610abf81bd51ef5f6f76e.17",
+      "text": "The depo shot is also 99 % effective and is given every 3 months !",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "76e0eaef96f7ee7a4be9aaa45d4e9c94.8",
+      "text": "The most important step in consumer education is awareness of consumer rights .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "eabe90f94eeb82c766110cf6251c7c5e.2",
+      "text": "or are you self concious about yourself ?",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "bbea0efdb8d8a80dd51aa7eac65e7204.0",
+      "text": "Mmmmmm Chicken Caesar .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "76ffadcce2d93b733df073287ae659cd.0",
+      "text": "Oh i killed kennedy too LOL",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "570742189aa374388580c80be30fe8df.4",
+      "text": "it usually before or around 14 days after ur period",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "b9bc4ca1f29677a78beb606c058872b2.0",
+      "text": "yes me to i love jbl moooooooooooooooooo",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1e67f789220134bfbabffffdd6a346ea.5",
+      "text": "Excuse me while I put away my UN Flag !",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "9e984c71ece05455ac11a23a578cbf6d.180",
+      "text": "Later the cold wave , with chemicals , simplified the process .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "df6f337db93060afec77951a76ffbd9c.5",
+      "text": "Compliance Services , OSHA osh Is your organization compliant with OSHA regulations ?",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "fb8fa80d94ae282a5e875370e182dbf1.2",
+      "text": "There is nothing I can say other then I wish you the best !",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "dac57d2ef64da85229fcddddcf44c5b8.2",
+      "text": "It is called Netwinner and it is kind of new .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "fe4b8a5211ec81958d4ea9064843e4e5.5",
+      "text": "That is what Adam and Eve chose for us .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "4519d315a4e6acf568700b1c13340e79.4",
+      "text": "visit given below link and find best job opportunities for you .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "577e275e10735d9641c0e97a40dc2b4e.8",
+      "text": "We have not borrowed AT ALL since 2002 .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1765c04a12b784d2338b229530a0896a.117",
+      "text": "A word Emily herself has uttered a million times .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9aeb5247a6d44198a7650acf8be14895.1",
+      "text": "Do n't worry , you did the right thing getting her desexed .",
+      "avg_formal": -1.5,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "234ffc8ac2c0cb9db8f0c8a88c3a84b8.6",
+      "text": "Your parents are the administrators/teachers .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "63dfbafcf7846872650810f37ccf1f3e.2",
+      "text": "Philips 750 process referenced above is supposed to work for all models",
+      "avg_formal": 1.66666666667,
+      "votes_formal": [
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9ca59eabb5baf318a387275793361f4c.358",
+      "text": "He figured since we had problems before that this did n't matter .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "6dc534f59078ab6a6eb972c075a9dc7b.1",
+      "text": "I think you are very talented .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "bf8bbc653ac03f7d46fe2a75a762b529.127",
+      "text": "Various drugs are available to relieve the pain of a UTI .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "4c1693d5a6cb2eaf2f618a21f60d55f7.2",
+      "text": "There are hotter wrestlers though .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "b109a512f22c233046ad16c3f2776d66.71",
+      "text": "We better know it too and be likewise committed to winning at any cost .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "0f35a9162b4bc7101a493b1ee8edc091.7",
+      "text": "It is totally free .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "d4703db292934abfe7632320e71fd801.0",
+      "text": "some people are just sick in the head .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "551701802a8366394603de099abbd97a.1",
+      "text": "That would be the queen bee of wedding taboos .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "c64b52e94fa2b46b17dd077621f86e8c.6",
+      "text": "ONE METAL AND THE OTHER PORCELAIN .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "008233837cf96a1e924b93082de5685d.1",
+      "text": "I think Mp3s are the most popular music format out there .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "16468d19bda8d5ca272a7307034d1f32.0",
+      "text": "Being a mother of 6 children I had to be organized .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "aa4382b696188d425693d9950684870d.1",
+      "text": "You will get a three day notice to pay or quit .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "a69d70f87401dd1241493d43b7268e5e.3",
+      "text": "Playing soccer , wrestling maybe .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "ee3d366925db804744bf613b125587dd.0",
+      "text": "Yes ... you sound pregnant I would go to the doctor",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "86bbfa2dda229739ee0ecee8801e573a.4",
+      "text": "i ' ve heard conair sucks .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "badc16ba9a229a8b6abc617130e8ae79.3",
+      "text": "It 's like asking for money instead of a present .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "07c33db4ce430a3373ad9f1d87d0ff9d.0",
+      "text": "Let her do the cooking .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f13097aa62c50a6d088f61e9305d1f42.0",
+      "text": "Depends on your lease agreement .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5bc19966d445220ff07196c023c2e714.2",
+      "text": "They can help you out on this .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "67ee25041bd7cdde3ccf440e014df2a7.74",
+      "text": "The average class size is 23 students .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "14a839d04d6d66e53aed1d945455c5cf.0",
+      "text": "I forgot how much I love the McNuggets until I had children .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "991b26a3bf0a42e0c46e3bd1282478e2.1",
+      "text": "I am sorry you have to go through this .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "f897e0b6e77d5527abeab0707828dbcc.1",
+      "text": "( These are based on the Japanese lunisolar calendar .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "9b2ad68acc159165c5cc7ee8277862f1.7",
+      "text": "i hope they understand !",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "cde0800df4f46a1330eb9381bab746b5.0",
+      "text": "Paul Lawrie for RADIO TRIVIA",
+      "avg_formal": -0.5,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1d7130eca296ca5be5e090de7ac98efe.0",
+      "text": "Please DO NOT let her cry it out .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "41cfb5ce2cba5e25d6c48bb4f9fcbf3a.2",
+      "text": "Who are your friends ?",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "dc815550543dd8439bb8969edd7c35f4.1",
+      "text": "All of the saxophones in my H.S. jazz band play Yamaha Allegro Instruments .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "ca4dfeea01d550a751663d0a1fa5d5ff.0",
+      "text": "my badge went to I - Hop ...",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3a475dac6151c737459e9705c4d86c4e.2",
+      "text": "I hope this helps your project .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "57bb634f4c992968041b6cb080806196.12",
+      "text": "( on the 20th in fact )",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "21a6e4ca6d9f13f29ffdf398f1ce8b1f.2",
+      "text": "If it is OK then get ready for a rebuilt transmission .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "e0321e1e99c41fd25d9011290fa423be.1",
+      "text": "pdf manual for that sub .",
+      "avg_formal": -1.25,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "d6e9adecc86829d1cd35ff203b59a959.1",
+      "text": "Its going to be on October 26 , 2007 .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c3da4dcfae36a04e55e38779b6f059bc.12",
+      "text": "Like , do healthy cooking !",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "593ec8bfd10801dfff0e57df1aa47bcb.5",
+      "text": "The ascertainable wishes and feelings of each child .",
+      "avg_formal": 2.5,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "c15d43f9d2acc38a5587e432a17b3db9.0",
+      "text": "Have you tried cheaptickets.com ?",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "4daec8377f14daed56599fddb1692297.2",
+      "text": "Let scouts see you .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "8169cb8696c40f6d643ce20117c654f8.1",
+      "text": "`` The Bible '' ... .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e52902d25b83b97a7e41d20e5e1928fe.1",
+      "text": "do he take medication ? ? ? ? ?",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "21a6e4ca6d9f13f29ffdf398f1ce8b1f.1",
+      "text": "Check the level .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "defd3425a3ae1d7c0856455355efa1c8.1",
+      "text": "read tips on treating acne and more on skincare to help you on this site",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "8382debafedb8d70667a831a4033bb5e.4",
+      "text": "This is not a joke .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "f764fa88c4c9418c43128c73a79ecd45.8",
+      "text": "Find a practice workbook .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "1c1fe97d2c4d6a4c49c9e7f29d201ea7.0",
+      "text": "It 's all about personality .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "427add6d57ca562c80c91b54cf59f163.12",
+      "text": "But when I co - slept , he woke up half the amount he used to .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f4622fec62adc9fe3527bc29dea87c9e.4",
+      "text": "But you will need a supplement .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "1a8340088e41a6df2b13558fa93bbfd1.4",
+      "text": "Do what you want to do !",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "53863098b0e7ebf2b9c99cd6b85b53fa.0",
+      "text": "Call yourself atheist .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f4ed8e1c69ae0de4037cf2896f2a24f4.0",
+      "text": "c. watch with amusment http://answers.yahoo.com/question/index?qid=20070411104558AAPTFtC&r=w&pa=FZptHWf . BGRX3OFMhjJWUZ8gkI8XlKVhtuk6wUuekvcZO2mhVyZGF.D1HWbjc1K_TnicuyXalIW2rcCbGA--&paid=answered#R8EtWGDuBzejN6buyN_J0tr_fmD46ikHbfmKq9s2G4feJOek9ig .",
+      "avg_formal": -2.66666666667,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "546a29f231f34c283c5e8aaebe7b5d04.223",
+      "text": "And by the transitive property , a roundhouse kick to the face .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3b01190119490c7b570f0bf8ad919499.234",
+      "text": "When there 's a will , I want to be in it .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7c87a96c880ee3c19f45be91a3c94f23.1",
+      "text": "Sounds like the element is broken .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "d8e3242e4748438cfb04ee28cc8c38ab.1",
+      "text": "I would see if someone is piggy backing on my internet signal RJ",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "6deeb0b17fccb5bb1e228cdfc4c0e42f.0",
+      "text": "No , never , best things I ever did .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1c9b6808ec6c9c920b127a6a7c8c5e1e.17",
+      "text": "Your question presents a problem .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "54c1cc4e5b109ac6e0b0ad2ce584e6a6.0",
+      "text": "I own two dell cameras .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "a34a769d5d303743702b8fb665f4551e.0",
+      "text": "simply scroll up once you submit your answer and the page return .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "862959b3c876a21b4f631bcacf3e40d7.2",
+      "text": "We spent another $ 1000 on suviners , and about $ 200 for food .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "db54cc9d2b7379811d9f6879de36af5d.2",
+      "text": "Is there likely to be anyone else in the building ?",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "e57addd49d690e0a7f21308c78108120.3",
+      "text": "There is no way .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "0ade0eaccf9d72704f89b809ac3582b8.41",
+      "text": "============================== DDo a Sponsor Challenge ============================== Your first challenge .",
+      "avg_formal": -1.75,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "719cbbd0a0ece4bbfa281e5c6ff51b77.0",
+      "text": "saying something stupid ... .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3fb8659b2acc1b7b610a598ebcc09665.2",
+      "text": "did you tell the principal at the school ?",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c9e0eba7b1f2dd3e8e4e740c86df33d2.0",
+      "text": "They ' re probably charging higher interest rate .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "6359c5dbc78bd80d556b7a953f9987bb.0",
+      "text": "www.ebaumsworld.com < -- they have celebrity sound boards and work great on telemarketers .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "8d973f701f589844aefd3128e58fdfa6.0",
+      "text": "oh tampons all the way after using them I would never go back .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "43be1b1384e69f8bf5a8d88441d610ce.1",
+      "text": "Discontinue use and see if the problem clears up .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "d727955618fc732c48237a9c9987ff44.0",
+      "text": "i do n't know you tell me",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f496b5bcd98f9ca9de4579aac7abfcf8.0",
+      "text": "The USA and its great here",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "138365416dbb48ff725f8fc69664fdaa.1",
+      "text": "I ' m just waiting for you ! ! !",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "dea2b0863a48093a6bf460720bca68b4.0",
+      "text": "you need to tell someone that is not at all fair to you .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5f4de56de6984a0bf50862341d2d59d1.0",
+      "text": "OMG , i have had a dream to like that .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "bf8bbc653ac03f7d46fe2a75a762b529.11",
+      "text": "One woman in five develops a UTI during her lifetime .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "7f470143dab9fa2cb7dd0b402d83cd68.0",
+      "text": "The sun is a star .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "bff208109572885d78b8aaa26be0482b.0",
+      "text": "Discombobulated ... Funny .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "b49ad0cc0c05055f6dbbb8caa3361e80.2",
+      "text": "I already knew about Whitney and Bobby .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "90b3f67ec276d32c230a238f3d345649.17",
+      "text": "360 : Muslimah .",
+      "avg_formal": -0.333333333333,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "975b1ee023d039a631db57296ec1566f.4",
+      "text": "Kenny ... `` You killed Kenny ... You B_Tard ! ! ! ''",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "d9a06c40743fb9ac7adf1c5aec0aa161.1",
+      "text": "We ' re devolving .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "adef2d116edc89a5c5f2257e716bb53a.2",
+      "text": "I tried uninstalling yahoo and re - installing it , no luck .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "8c20e193dd5ccfd495d24b9a0c0f697c.1",
+      "text": "They drew a diagram of her hymen right there in the bible .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7365de77f93c35a5941295c288335653.4",
+      "text": "Don ; t ask for the lobster .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "2716810e08cd5d87c9d3ffee199876cd.0",
+      "text": "disasemble the gun and fix it",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "da97bf343c25ef550979bd73e4bfc6e7.6",
+      "text": "She ' ll need it .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "43a89cfb33fcf9273d0dcce9ad79beaf.0",
+      "text": "like some think that Jesus died for ALL humans ... another false claim",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "d5caf1ee24c1d0eef2d2440afcbd9f20.53",
+      "text": "A photon is a packet of light energy .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "e83633010812d5b4f0b0487909bba036.0",
+      "text": "Your mum 's going to love it .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "88721f063fe57f517a3d8d7edefcf67d.1",
+      "text": "It only benefits the welfare mamas and the deadbeat dads .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "0fa06f31a74b904dabb2688e1e65aedb.0",
+      "text": "Metallica , WASP , Dio , Iron Maiden , Judas Priest",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "da55c5a2564c603320a60cb24bcf0255.6",
+      "text": "major mistake 3 : finding the elephant garlic is NOT irrelevant .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "6fc8041f2c75bcfb87361212e429f9e1.351",
+      "text": "Some of the most common are : A male tuxedo cat .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "265831fb579cd1b14bbb76b1792c454e.1",
+      "text": "Maybe someone is doing it .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "99f331164551b6249415c97cb32163d8.3",
+      "text": "Papa Vinos is good as is Max and Erma 's",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c06e27edf764dcf7c66a72b5aa5e7789.6",
+      "text": "Let cool completely if frosting .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "628d533b41fc47a5fa3844f38b5f48af.4",
+      "text": "To a point i agree .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "d2141f7efb0219783531c43bd7bc5ac3.51",
+      "text": "Slide doughnuts into the hot oil using a wide spatula .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9e2bbbac181651bf2e69ade4fb41ccb5.0",
+      "text": "I recommend a hot Vics enema .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "8bf0ae67174ba46d8cbdb2152c170579.0",
+      "text": "Use Numsit - a teething pain reliever for babies .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "de773bbdb35acd7dfc8d78abca001e34.0",
+      "text": "Today 's youth is denoted by energy - abundant and enormous energy .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9e9a78c28c48081149ce2a865f53ba5e.13",
+      "text": "Hep C is a scary disease but a manageable one .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "da622ec263a7d97d82d5be6c40f05d7c.0",
+      "text": "one who is true to others & himself",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "8e22d01a66527b7720b617e8492d7b6c.0",
+      "text": "I think that would be a beautiful sight !",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "79b32b6235a98dcfd0b03766b07b8251.203",
+      "text": "Just fill up the meter and press L1 .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "cf4dcfcb3eeab27012a8f412784b7e66.31",
+      "text": "These fish wo n't move far for a meal .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f75838144522ba00407e4049663dbd2f.0",
+      "text": "Of course it is .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c2a705a3fae3cf5c8f2340c2bdd20f42.4",
+      "text": "We could go on and on .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "81e8f1ee1436a0f9dd7344455f07a8b7.2",
+      "text": "i am but i have mates who do n't take muckers and still love trance",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f0d6caeb8746ae150bd136276979e51c.83",
+      "text": "If these goals are not achieved , pharmacotherapy can be offered .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "54b658530b02fbdd3e9c51f7ed69c3c8.0",
+      "text": "good one do you make those up",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "491497423e4c6938fb117b9a2e82ac9c.12",
+      "text": "These are the same compounds that give farts their odor .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "64a1ca6f0d7a0465b71f254d97c75237.7",
+      "text": "You may add information , or omit unnecessary information .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "891bd2774660cca5c29d232e4d538fc0.0",
+      "text": "it starts when Big Brother finishes .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "aae9de1e77fb59d10f7722ad68866ab9.0",
+      "text": "I have never heard of a large dollhouse like that sorry = (",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "70ced85a2e6ab6cc8df2cb5c8745eea1.0",
+      "text": "psychology and history .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "63ceb153fef78be42fb4cbe81cb47042.1",
+      "text": "Works for me ...",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "a320a4c89fd772e36111dd4b019a75e2.0",
+      "text": "As with all things , I ' m sure it depends .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "3491b4e1ea890e6659e75864e3821c7b.0",
+      "text": "Mine are fine and m 'm english .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "524cd2c3b3fa29785e643a77a5585a1c.3",
+      "text": "256mb , plays damn near anything and is less than 200 bucks !",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "51d72873f468b0086fc96ec94b5e451e.1",
+      "text": "Have you had any grief counseling ?",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "c4e762942828eb954377d6519bcf8394.0",
+      "text": "Run , run , run .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f6ffe1b5d640d4a7284657b08a855509.1131",
+      "text": "What about the glands ?",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "8cf5b0b2f7a0c8681e592d75f3310c35.0",
+      "text": "the mullet is making a comeback",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "beaa885ad48ae3aa82c11c6b1d3c11e1.0",
+      "text": "do you know how to spell ?",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e04dbc20563488d1a7881d7db6c85134.1",
+      "text": "representing the bad * * * NC !",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e834d58e48464283b0e12a5f13d63ec6.0",
+      "text": "bad if ur apart for too long it could turn out bad",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "63d06df56d147928cb463ebb412f3c61.0",
+      "text": "Pray about it .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "9585e3eb5a8c1e73244f6ec0f7c75a0c.27",
+      "text": "I ' d be so angry at them if I were you .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c0c9ee6c10262e58bd60e48132467207.68",
+      "text": "After nine days all nine are removed together .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "280f261b001d898ae7e70fd2a2883ade.0",
+      "text": "chunky and the coon tails",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "822f51946a6c54ccf120e6ec4fbc2207.0",
+      "text": "Pretty Ricky because they have pretty voices",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "2b9406c1043121c98235339c0d7d6db5.2",
+      "text": "There are many better brands of food than Iams and Science Diet .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "7241e25983cbb9fcf4f13aa549ca0b72.98",
+      "text": "This original Talmud passage has been concealed in translation .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "0222b6860e1d17154f400ee132fa452e.2",
+      "text": "Governments are elected and ( in theory at least ! )",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "17494825dd4524391fe9c15baea66159.3",
+      "text": "We started every morning with it .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "d43a1b7e35d2f71ad6023d3987232939.14",
+      "text": "They also learn about the diseases themselves .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "6f83b13db89bf3ad3c1a10497e2bc938.1",
+      "text": "Nice try though .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "822c0bdf1bf773042e15a3923b8f24c2.4",
+      "text": "However , it 's still possible .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "8ebdc5503811ff34cb37b2037ccc765f.1",
+      "text": "If it was not for black people where would this country be ?",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "4c6a51ff062bde0400ff183a2699457c.0",
+      "text": "Lincoln from the Perpetuations of our Political Institutions .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "502a48b9409f764a9b12238ded77d365.66",
+      "text": "Around The Way Girl , LL Cool J 65 .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "664710497c37060cdc614ad8eb3a6312.0",
+      "text": "Your family and friends know that you two are broke .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "621b583ff1dd3786c4dd6674a53e6c37.5",
+      "text": "Rebel for life !",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "cdba69af8eb0e14a7cb79bac1978b04d.9",
+      "text": "Instead of having lots of food at the reception , have a tea party/reception .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "4be85fe9509a09d3ab6b052df135cd71.2",
+      "text": "We all have our strengths and weaknesses .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "499ab43e659271d7e8ac8639242bd8db.0",
+      "text": "I would n't say taboo , but its not really proper .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1f167ef03544437c161c2bf6a78f5490.35",
+      "text": "( Favourite ) ( 28 ) * # 94870345123456789 # Deactivate the PWM - Mem .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "5853d406cd934422882b9c706e01f1bb.0",
+      "text": "Buffon for goal keeping Beckham C.Ronaldo",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "94d2af151589c3152dbfbb1cf12ecc9e.12",
+      "text": "Then she did it again after five minutes .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "6e92de2b23768280bf2d98797c2a7684.385",
+      "text": "A Piece of Blue Sky .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "497adc79f68cc87cf0dc4b3a8bcbd20d.2",
+      "text": "The other person will appreciate your interest - especially in a large crowd .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "546a29f231f34c283c5e8aaebe7b5d04.304",
+      "text": "Then two wrongs make a roundhouse kick to the face .",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7b4a2c2b1891995e4357fad9589de16a.5",
+      "text": "Praise the Lord !",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5a17a417b6c5a22e08e8c9efa3eff341.2",
+      "text": "Ringworm is an airborne fungus that is highly communicable between animals and humans .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9a86fb275a33a9248255b23af9f133a4.4",
+      "text": "God is good , all the time .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "89b5acc9148d8acb14958125f5cc21a6.0",
+      "text": "Elsewhere is real , but not every instance of it is true .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "bffb49cbd5167a9eee5c32caa1d26a77.1",
+      "text": "She favors books about women triumphing over adversity .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "190b00cbc41caab44facd18962265d0b.0",
+      "text": "Without a doubt , but they never will",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "288bea99ba4f9c6e416f6e496a79ed99.0",
+      "text": "- Would a man want to have sex with his granny ?",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c54647e4419be6af6f2b57af9fb2b29c.0",
+      "text": "it is the favourite colour of every person !",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "031225eb30b57c2e140406e2167c2f84.2",
+      "text": "Now I have to post this on Myspace !",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "684edf09f997e9d0baf6078fd4552570.11",
+      "text": "So you see , you actually have it better than I do .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "f6ff375ab70f8a3b137e35b741751a32.0",
+      "text": "I ca n't really tell ya more then these peeps already did .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c009aab2d10c2e91cf4a21f9ccd9f2f9.8",
+      "text": "They are some really healthy recipes online .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "ec72f565d57858d310f48d2d235d9fdf.4",
+      "text": "BAKE 55 to 60 minutes .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        0.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "22017dfce2d5acef1afbc28f855259c3.11",
+      "text": "of , pertaining to , or characteristic of islanders .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "eaa9ecbbb4550697dc349ea9c04693c4.1",
+      "text": "IF there is MDF or OSB directly under the tiles you have no warranty .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e05df7b27d46af2a7e0b4de66ea9b3ed.2",
+      "text": "Emu 's enjoy Eskimo escorts .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "1ceab6d16a48c391b8f4431a6c22e8e0.1",
+      "text": "Because I do n't go lookin at other guys ... .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "72f3121e625b4ed01c757b9f4f88c176.1",
+      "text": "Roughly 14 days after ovulation , you have a period .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "b3add2ededbb00b274b8757299eaa59a.1",
+      "text": "I see this is going to take some work .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5ee361a9eca469adec835b46ab09ac53.0",
+      "text": "How about Chase Andrew ?",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7c09865eab5e27a851f0d4e55da37fa7.1",
+      "text": "Damaged drain tiles ?",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5565d005341524be9e7e60101a48961d.91",
+      "text": "In the Cherokee Nation , women were warriors .",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "486417bd7f15c910e47b711545924bf9.0",
+      "text": "I see you are spiritually bankrupt , you believe in yourself .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "82a5af10b25c5af381843f309aa4a0b2.97",
+      "text": "Santa got angry and replied : Bhejnewala gadha , padhnewala mahan .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3db25346365f649436b01ae0f630506e.2",
+      "text": "Fantical Islam is not going to stop until they kill every infidel .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "18fcd436328212c4ab3112126d5dd0aa.1",
+      "text": "It is awesome .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "51911f261eee2c3ab5db4911982da929.2",
+      "text": "I would recommend this to anyone",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "5bbdf41986dda093ebd87e0ab9d3ca2c.1",
+      "text": "you get a star .",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "020948a82d7623dc1db56f15dab1319e.15",
+      "text": "comes the reply .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "15465c6d75c9039fc29a9dfe557032bc.24",
+      "text": "And Allaah knows best . ''",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "ddabec302e6bbe3c30f9a47759547430.1",
+      "text": "It is really fun and before you know it , your house is cleaned .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "a92919775be6c87a41f09bffd8ebdd47.0",
+      "text": "sure i m me and i will tell you .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "dead1a136e12009c3eb12ddc0d50e736.0",
+      "text": "Get your carpets cleaned .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "a78a940bab005b4659f3bd28b68b49af.0",
+      "text": "Cats often move the kittens when they are young .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "2f80e9c8a4d57386dff598ffae59bcae.3",
+      "text": "They have such nice complexions ! !",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "05c644f7de668d8b6163b0d4c5e51c7f.26",
+      "text": "What medical billing services do you offer ?",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "73898db15bb3182c457d54d7417559aa.0",
+      "text": "I think so ...",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "d3ecbb965846a654f72362870da9c3ad.8",
+      "text": "I ' ll keep my fingers crossed for you !",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "4a03fa15a189153dc1e90b6e82890e71.0",
+      "text": "Sounds like ringworm .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "678096f31084dfb9f7f47b4dbf4286f7.1",
+      "text": "The Wind Dancer ( 1991 ) 2 .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "2c7759a1cb0744fde9f078df53d6db50.4",
+      "text": "i thought they were going to kill me .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "fa964ca703abcdf929865e1987197dec.0",
+      "text": "I hope they did n't kill him off ! ! !",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "9ca59eabb5baf318a387275793361f4c.475",
+      "text": "He was even taking nude pictures of himself with him jacking his penis .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "9ca556798f1bca8e2126f2c5773e63ed.0",
+      "text": "Yes , I can , but it 's not very lady - like .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "0d8143419c31fcbaef16a0542594d095.3",
+      "text": "see how the answer is different ?",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "b082c676137472447a592ae31d507c5b.2",
+      "text": "Please seek medical advice before undertaking any strenuous exercise .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        -1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "cf6706852284a9c55602336df580336b.0",
+      "text": "Well they ' re are laws for this country .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "eac78b5fa3e895df4f13fb5062a6a7f5.1",
+      "text": "The food should be free .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "a3f2d7d649fc8310935cc268fd945ba8.4",
+      "text": "PS a small suggestion , purchase a larger bottle of conditioner than shampoo if available",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3b67ff353c6c87e79eae2630f2a55183.37",
+      "text": "Here it is always the same .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "4feff681d7a698a97b5a4957594a4a1c.1",
+      "text": "This includes returns at the store or with your carrier .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "31114566f1315e65380dcbe49ab7375b.0",
+      "text": "no mutations are harmful .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "9c5c52db76fb85f6d4373208bda18d82.0",
+      "text": "too sweet for me ... but my daughter loves them",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "445fd2c0579cdec397d12edc65431ccf.0",
+      "text": "Your team does not seem too good .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "9c1d1d9b09f36ded14c34a8984b67f45.75",
+      "text": "Naraku 's Barrier Kagura 's Decision 67 .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "969a2c5cdd3e590f9129157c351dc755.4",
+      "text": "They are free .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "c5922d260a1340d14f1ca27ea846ca18.4",
+      "text": "Run it in safe mode .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "8838e95ed00127e12616422b1bc7401c.6",
+      "text": "3 ) never leave a blank -- it looks like you were unthorough .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "cc84f600c75e4d482ef64501a657f7dd.3",
+      "text": "puppies usually get it bc it is so highly contagious .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1f3b56eb763f3667c309c2f114f96924.0",
+      "text": "go to http://allrecipes.com they have thousands of cookies !",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "2d100c5489ea2b7081ac3ad2aa4a4655.3",
+      "text": "Remove the door from the frame as well as any shims .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "5ec2f496713964690b383cefd5222c7b.0",
+      "text": "A good way is to buy crest whitening solution .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "54a5c334c0c7d1b6b4ca75cb6dde088d.0",
+      "text": "The first Clerks was in black and white .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "30f4acf7f51543ae8a8c9d240b7e4954.1",
+      "text": "I personally like a nice thick juicy steak , from cattle .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3e142bdc4639220aad70410c68226c96.1",
+      "text": "Unfortunately there are no more Martin L King 's around .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "42490098f00f3b34c2e8236ec8d59fca.3",
+      "text": "would u be here till this day .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7b4a2c2b1891995e4357fad9589de16a.9",
+      "text": "It was awesome !",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "82a5af10b25c5af381843f309aa4a0b2.535",
+      "text": "* Wake up dear love it 's a beautiful day !",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "89f7d44bacbe35816c15a6fa57e6b5e4.1",
+      "text": "We bought it fair and square ...",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "ec69fb5db4a6a7b781e5dfa9c92bc7f5.3",
+      "text": "Keep your mouth shut .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "2439139f31967bff816d37aed10f794e.1",
+      "text": "It balances it out .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c50c656671f01524101e45b5184517aa.2",
+      "text": "in 3 weeks , they take him to the hospital .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "21b0012710ea097e8d67d743dc3d36a7.0",
+      "text": "I declare myself holier than the God of muslims .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "945535a34ae1e810555d47fad3a1887e.5",
+      "text": "Just Google `` art college London '' and you ' ll be away .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "33c6af09783e7efe5b103da5f6492967.41",
+      "text": "accmail.ir Russian ( 10th Ed . )",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1df3cbeb4ae9c0c138ba727f163d94c5.0",
+      "text": "Angels like some cover .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "72d1e28ea727556aae70707b86e68b63.0",
+      "text": "Simply by straining or pulling on something .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "e52c19825b0e7678b1ef17c54baf4ae7.0",
+      "text": "its not gon na come off your new/old jeans .",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "076f0fb6946154485228ac7660d6c7e4.7",
+      "text": "You come off shady and I know you are a bigot ! ! ! !",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "4dee3a78e9ca7f413ae4169bceafe482.4",
+      "text": "wear on forth finger from thumbside . May this help you .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c0c9ee6c10262e58bd60e48132467207.15",
+      "text": "The city is adorned with lights .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "b6fbc4e48e12853638f8cb2a31723962.0",
+      "text": "be whateva u wan na be .",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "2943e9545cd6b52c0082ece63a393375.4",
+      "text": "that would offend everyone .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1765c04a12b784d2338b229530a0896a.522",
+      "text": "He also was interested in procuring handguns and missiles .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "817df3034a8e85c3db95320488b8fdb4.1",
+      "text": "Do n't panic at this point .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "6fcf538b59449cf0fb841a3c917b24dd.20",
+      "text": "I basically have had as normal a life as anyone else .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "44b053b73570ee7a08cdf8d1412b6d1c.3",
+      "text": "And I do n't kiss girls .",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1a93deb47a3f3d4a58df01cfbdcdf5f8.2",
+      "text": "however the V.W cammper van IS THE ULTIMATE road trip vehical .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "eff61274f7a5479caa7b9310b2ceddfd.2",
+      "text": "The problem is it takes hours .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "ef23c1873bdfbe1c2abbae2650696294.1",
+      "text": "But working on a hangover sucks .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f01b9f4f49d767ba97c7fd239b2c1e13.3",
+      "text": "Congratulations on your baby !",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "a2da477ee3c81393af7ff182df7ce3c8.1",
+      "text": "beet sugar on the other hand is vegan .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "4976fbd8f85125b497452e1b351a871a.3",
+      "text": "Iams is not a good food , neither is Eukanuba .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9b7253af1ff643aaa3dcdccf96e24b68.1",
+      "text": "How do I deal with them ?",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "be63a961722f34f563d8927918f5541f.6",
+      "text": "yup I made it up 2 .",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "6142bc9b17dd261f4b3db1f8ed0566d5.34",
+      "text": "The money can then be withdrawn to cover qualified medical expenses tax - free .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9f5f9ee5dd41a7a93a5b6b4fd8a98027.0",
+      "text": "yes i write in different styles depending who m 'm wiritting",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7b2d03b1665f863e2888c67b0e720bc9.1",
+      "text": "Did n't you see the movie Fallen ?",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "ce7413a9c143d552b2d8b85d4cc9c2ae.5",
+      "text": "are you actually a female ?",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "d4614e8fa2728b05a9aa5969f91da2c2.0",
+      "text": "I think genetics have a lot to do with it .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "c35d54825cffcd6f9f90acd286f889a6.15",
+      "text": "SEEDS are very important .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "a0d0195a6616d2b1b5f200303a9a34cb.0",
+      "text": "I do n't normally use spell checkers ...",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "85840802ec183a2c89c9ec32aced6b67.0",
+      "text": "No real side effects other than the obvious pregnancy .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "b5cf6586cfddbc3c6b636bea7a784ece.1",
+      "text": "I ' m only an A and I ' m not in any hurry .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "2aa122fdd466497a00d3db902ab0bd59.0",
+      "text": "The unassisted triple play is almost God like .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "56de0e28c9adabfd0d11b892d79a14d1.23",
+      "text": "Masturbation is , after all , a normal behavior for most children .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "b27e26a199ada0e5716628ab86a4edb6.14",
+      "text": "Well , I hope that helped you out !",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "c4bf05add8db6abb5400f729a2c91e50.6",
+      "text": "These are modified leaves that make up the flower .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "42ff9d8d80624ef9d6505566a19e26c7.0",
+      "text": "Comedys are my favorite kinds of movies .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "f1c8cd28441bc2edbc1647c85572769f.0",
+      "text": "Can we please go forward ?",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "9a4b3e1e3fe26a079d42b59e5b3c3177.7",
+      "text": "Wich is according to the exersise is not true .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "2a6549b474a68ce809558da03144ea42.1",
+      "text": "When did you buy your car ?",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "b2ead4ece34f2868ff0d37b9b2c05523.0",
+      "text": "I heard about it .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5f08c7422bdba275cb3f45127abcd2e2.0",
+      "text": "only Congress can declare war .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "d324d1d401f42c8188dbba96525cebc3.0",
+      "text": "probably a bartender .",
+      "avg_formal": -1.75,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f4f30b8837bea71bde78d00ad3d6d7c6.0",
+      "text": "Acquired Immunodeficiency Syndrome ( AIDS )",
+      "avg_formal": 1.66666666667,
+      "votes_formal": [
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "3e125b08dfc74b2015a4254833e4e26f.0",
+      "text": "Give yourself time .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "0ade0eaccf9d72704f89b809ac3582b8.73",
+      "text": "So you can just do it for one second and still have it counted .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5f680adad85e752f6d8b24dfb1f31ef0.0",
+      "text": "Everything you wanted to know about atheism and more .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "ae7d2b1b08608dd53c2e68eaae524489.2",
+      "text": "Just sound confident , and it will all work out .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "c2e3281bc98b8e1b741e934494b0bcb0.0",
+      "text": "wtf popular girl .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5fc22df314adab3f75a8412fc40e550b.3",
+      "text": "The book is spiral bound , and it is priceless .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "84fa1f0e033bb3d531b3aa8b26bf38bf.10",
+      "text": "`` How did a fool and his money GET together ? ''",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "0ade0eaccf9d72704f89b809ac3582b8.538",
+      "text": "The nose bluntslide is a good example of this .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "81fd90dec57c19b80f4ecbc3a78628a2.0",
+      "text": "Vultures Are Stupid Unless Dogs Have Ass lol .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e43c6acf917c8114f0f3a78272f2f93c.0",
+      "text": "Single line Method or Fixed Line Method .",
+      "avg_formal": 0.75,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "a2f99695d64430d0d7c98b3b1926e355.1",
+      "text": "I would have it checked just to be safe .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "22017dfce2d5acef1afbc28f855259c3.9",
+      "text": "detached ; standing alone ; isolated .",
+      "avg_formal": 0.333333333333,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "f064a8d87793a77c46609ad8626ff5ef.3",
+      "text": "Go NIGHTCLUB , it 's ya birthday ! !",
+      "avg_formal": -1.75,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "786d3930aac96a76bef9c1e056f16b0f.4",
+      "text": "And it harm none , do what ye will .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "bb1d1ce3ee25711469cd1f77110cf66e.0",
+      "text": "candy corn of course ! ! ! ! ! ! ! ! ! !",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "76223819e04d2f224d3af3fd35e66bf8.4",
+      "text": "Where is it ?",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "4a566b03dfcde3f1ea1dda37e8b0493e.8",
+      "text": "do this when ever you feel down .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "357c526853fa280034554fb0fffed23e.0",
+      "text": "Have him go for mental health on dissociative disorder .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "47379819a2bd7d31519fe27e36e1a293.0",
+      "text": "A cat is a feline !",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "546a29f231f34c283c5e8aaebe7b5d04.139",
+      "text": "This never proved to be the case .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "ab99c5752709eda24a57835f5ec170f4.2",
+      "text": "Seems this doctor is a family practitioner .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "026a655d1b39b8149a2aeed72389de56.0",
+      "text": "Not Debbie Reynolds .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "0b5e3fd53bff9cec797f0796c7687c57.0",
+      "text": "that would be ice cold lemon tea",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "b27e26a199ada0e5716628ab86a4edb6.1",
+      "text": "Click the arrow , then a list come up .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e9805609c3da6e82cd908e235ea4c382.3",
+      "text": "In fact all vegetables are good for your body .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "3888be708bcdf37157ece597055ba253.4",
+      "text": "Varies from individual to individual .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "04660dfafc17b5aa88e98cd9c2d604d7.9",
+      "text": "This discordance is discussed in more detail below .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "380b1e7dd7866a999d467c10d6df943c.4",
+      "text": "four speed or three with an overdirve .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1509e242303a933e68aaa8ef12f08f07.4",
+      "text": "There are pros and cons to each choice .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "38b3029a0435e57618e4491341075ce4.7",
+      "text": "Some boxes have several sizes in one ; for different degrees of flow .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "c29355c9251daa82ca8ecdb6493cf553.1",
+      "text": "They make sensor cleaners that you run like a DVD .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "289d2c0a6976e374b631af02535a835f.2",
+      "text": "city flag ... tothe right .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "8cc0f763ff854a4f15d1bcf1a4c179de.1",
+      "text": "no one can carry himself like that little green dude .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "66eb0224d54c3eeb222f0e9257069105.1",
+      "text": "Find encryption software .",
+      "avg_formal": 2.25,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "62cce75d68b190281409a5369e97a141.2",
+      "text": "all i know about clam chowder is from the simpsons .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "30b161fb5d2221c11f82a3cc579a80d9.4",
+      "text": "Pleae do n't join .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e48c0f4723aaece7b75cf73916ad17dc.4",
+      "text": "If you ask me , it is all a little too much .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7eb0a4c1cb6229b56f2b016940f4bfa0.1",
+      "text": "Anyway , I ' m watching Heroes with my boyfriend .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5167edebd4c8b42afb6eaf8062090c0b.20",
+      "text": "The unsurpassed effect of NeyDent is achieved by a combination of 11 ingredient groups .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "ce7413a9c143d552b2d8b85d4cc9c2ae.2",
+      "text": "do n't you think she ' ll know already now ?",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f90662500440a8c193da259d0a51fa0c.0",
+      "text": "just ask him straight to the face what he needs .",
+      "avg_formal": -1.75,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "b7b4f32b0860690962de4f0fa59f7d76.0",
+      "text": "sure , people are inspired by all kinds of things .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "2e3679f3a17feb32a8c58ab9e5787c74.11",
+      "text": "Expand the DVD/CD ROM Device branch .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "30220ecd184752e76217c7efe94fba5f.2",
+      "text": "After you beat Scotland everyone was thinking `` England are back ! ''",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "a4ea4282827073e4a2632fbc0db527dd.1",
+      "text": "I even floated in it , inside the pool .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "4f03a4f3f716f1d00c2f7147fe53e3e0.184",
+      "text": "I ' m sick of pretending I do n't care ' cause obviously I do .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "dba1c92dabb19a697565b48002852aae.0",
+      "text": "Nope , mine are even different styles !",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f6ffe1b5d640d4a7284657b08a855509.592",
+      "text": "Spud : No joy yet .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "47e33989a2bd382c450ae348fc1cd1cd.0",
+      "text": "ya , but I never go on there .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "6b96c7b5223e0309eedfdfc0ddd1071d.0",
+      "text": "just go to gamefaqs.com , they have tons of cheats and walkthroughs",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1a4b9becf9188b18d13daf2f11768bd5.15",
+      "text": "What do you think you should do ?",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "18f1fedfe376ecac004543b24b1e1f60.0",
+      "text": "JK Rowling hands down .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "d011f43b9e7fee70555b24aee989b95d.3",
+      "text": "Nowadays , it is used to create an arachaic feel .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "cc58074bba90226d83221fcbbff4cc9f.0",
+      "text": "yes defending the race pays very well .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "1ee48bedcade7abb712990dd456c3859.0",
+      "text": "Bartlett 's quotations .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "1a4b9becf9188b18d13daf2f11768bd5.9",
+      "text": "Use more polite or cordial tendencies .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "149d262e17f15214b153e90a7b1a8091.0",
+      "text": "a. AC = AB+BC = 2 +6 = 8 b .",
+      "avg_formal": -0.666666666667,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "570a09fdc61a7b353d77ed38c59e728d.5",
+      "text": "Supplements like evening primrose can also help .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "904ee821e0079610d8719e4f97b37cac.8",
+      "text": "I hope I am not using words that are to big for you .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "1d6cee0a75738a3f4dd6defbf235ad17.0",
+      "text": "Classic Big Mac with French Fries and a Coke .",
+      "avg_formal": -1.66666666667,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e6c8734164160d5f2a223194fb307c3a.1",
+      "text": "Some sort of composite .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e7f7b75f33bd5be22d8c64dc9f4ae9f9.0",
+      "text": "i have a friend who converted after her sister shared the Gospel with her .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "4a5218a3fab0049d80bbe8de594f837e.0",
+      "text": "I doubt you ' ll find Lambretta parts in Thailand .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "ca18b4f94a9d9c20e215ed1692883932.94",
+      "text": "Great fun for genre fans .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "735364292d3fa92892151991013f2103.1",
+      "text": "IF not , then you ' ll know",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "546a29f231f34c283c5e8aaebe7b5d04.177",
+      "text": "* Chuck Norris can skeletize a cow in two minutes .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "5565d005341524be9e7e60101a48961d.105",
+      "text": "7 Clans : The Cherokee Nation was divided into seven clans .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "a7942fa0bb8af520c6e0f212057aaab9.0",
+      "text": "Yea i have noticed ... But not everyone ... Do not over generalise hun",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "d5326446e4f3982b02832dad90244c43.0",
+      "text": "Good thing you do n't have a twin .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "b768771625c4b921d6c9c2f2812b638c.4",
+      "text": "I mean it !",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "43deaeb65c00e6f6ae983dd1fa27078c.0",
+      "text": "A holy soul .",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "3f647190d240e243aadfcf75f46b7cf9.0",
+      "text": "No , there was n't .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "380b1e7dd7866a999d467c10d6df943c.6",
+      "text": "Hidden Valley Ranch salad dressing truck !",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "f17fe3f26783bb9be35500aa4bedb582.67",
+      "text": "From this cloud and its gas and dust , the various planets formed .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "a6d3983966b78286968ef73b0312bd5f.0",
+      "text": "no it means ur bed is too short",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "01f68c2bd9ea7ce63755e94fbb7b7b59.0",
+      "text": "Yes , that is correct .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "f972e4a57c81a8fca099d45b800ca77f.0",
+      "text": "Yeah sure they are states so go with it .",
+      "avg_formal": -1.25,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e59291d7cee990afc79992eac36a72b5.4",
+      "text": "Oh what a tangled web we weave when first we practice to deceive !",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "f6ffe1b5d640d4a7284657b08a855509.6",
+      "text": "Murphy : What ?",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "92f20c6eed8266900a32ce29cfd508ef.0",
+      "text": "I got a headache just reading this",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "6f83b13db89bf3ad3c1a10497e2bc938.2",
+      "text": "Run , run far and run fast .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "efabcd5e008b72cd5080b7b0ad8927c5.38",
+      "text": "Multicellular organisms then appeared and colonized benthic zones .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        -1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "536bcc745cf21dac91a0956cd62272ad.1",
+      "text": "Why was n't the beatings mentioned earlier ?",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "e0b3645be3b0bad8080987ca6429dec5.0",
+      "text": "The batters box is owned by the hitter .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "5bd480c95a2f642399f5110d57184289.19",
+      "text": "* MSM or Glucosamine are supplements that could help with body aches .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "57c0ada58f072968475121825302d1c9.5",
+      "text": "She never even had to speak a word .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "acb5e46ba4660fff727a4dfe00d3364b.2",
+      "text": "Place Human Characteristics Physical Characteristics 3 .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    },
+    {
+      "id": "69ea98e88029775658495035e48f109d.2",
+      "text": "quite useful for pwr point presentation .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "df6f337db93060afec77951a76ffbd9c.12",
+      "text": "CHS has the answers .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "db066aef1a61dad599f410c833311acf.0",
+      "text": "It is tacky to ask someone out then tell them they are to pay .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "031d97b88881d19b2a0cfb97e19a9dcd.2",
+      "text": "I ' m sure MadBlkman knows that network cross overs could n't happen .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "7a66323251df841aa6f5fe4778671241.0",
+      "text": "My mom does n't like me ...",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "38c2244f4e4f5f2082e9b1d13f3c5006.4",
+      "text": "Also with 100 % of the profit from taxes going towards anti - drug programs .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 0,
+      "binary_label": 1
+    }
+  ]
+}

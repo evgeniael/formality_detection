@@ -1,0 +1,6740 @@
+{
+  "metadata": {
+    "dataset": "email",
+    "model": "mistral-12b",
+    "prompt": "instruction_prompt",
+    "num_datapoints": 500,
+    "gold_label_transform": "maj_sign",
+    "classification_performance_metrics": {
+      "f1": 0.8164251207729468,
+      "precision": 0.689795918367347,
+      "recall": 1.0,
+      "accuracy": 0.696
+    }
+  },
+  "data": [
+    {
+      "id": "JebBush_11344.3",
+      "text": "I apologize if this is an irregular request to ask of you - but feel your intervention is imperative .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_42076.0",
+      "text": "* I took the van off the property without paying for principal .",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        -3.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_11779.2",
+      "text": "With the everpresent elderly community in South Broward , we are better poised to serve that community by having a \" community representative \" on our board .",
+      "avg_formal": 3.0,
+      "votes_formal": [
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_39367.0",
+      "text": "Jeb Sent from my BlackBerry Wireless Handheld ( www .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_24430.5",
+      "text": "With therapy our children can become functional for the future of our Nation .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_87403.3",
+      "text": "Keep up the good work and if we may be of any assistance to you please let us know .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_9377.0",
+      "text": "We plan to have a wonderful gala celebration that will shine the spotlight on the best of reform efforts in the last ten years .",
+      "avg_formal": 1.25,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_34521.1",
+      "text": "Unlike more strigent requirements in the original CDC experimental design , the new waiver templates will remove requirements for randomization of participants and it also gives the State the option of \" cashing out \" certain state plan services such as DME , home health and transportation .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_84044.3",
+      "text": "I have been told that there is clear DCF culpability .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_16462.4",
+      "text": "A Jax public school 5th grader , who has had health , incl open heart surgery , and learning difficulties...and can only write with the assistance of a computer , won .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_7356.1",
+      "text": "1 . Mark down March 11 .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_108674.2",
+      "text": "That makes three that we are aware can not attend .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_13912.1",
+      "text": "It seems to me that everybody wants to take away patients rights , rather than focus on the real problem .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79590.1",
+      "text": "Frank Jimenez did call me regarding a senior attorney position with the Department of Health , in Tallahassee .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_65872.4",
+      "text": "thanks team .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_32186.5",
+      "text": "If the State saves Cypress Gardens , you will not only be saving the Gardens , but you will also be giving thousands of people in that county renewed hope in man kind .",
+      "avg_formal": 0.333333333333,
+      "votes_formal": [
+        -3.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_51609.1",
+      "text": "May have to hang it up...sure appreciated your diligence...waiting to see what happens now .",
+      "avg_formal": -1.5,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_29240.2",
+      "text": "While many \" F \" schools do indeed have high - poverty and high - minority demographics , many other schools with the same types of students nevertheless manage to do well .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_16768.2",
+      "text": "No one wishes to deny any citizen the right to fly the American Flag , but I do think an Association has the right to set standards for how the flag is to be displayed in a respectful way .",
+      "avg_formal": 2.8,
+      "votes_formal": [
+        2.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_70602.1",
+      "text": "Ron has served as a consultant on end of life concerns and hospice for thousands of families , patients , and staff from all over our nation ( and even those in other nations ) .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_117510.3",
+      "text": "Jeremiah 5:26-28",
+      "avg_formal": -1.5,
+      "votes_formal": [
+        -3.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_55518.1",
+      "text": "Craig indicated that he thought the event at UNF went great .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_49076.0",
+      "text": "I have tried everything possible to attract business .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_55526.0",
+      "text": "Jeb Sent from my BlackBerry Wireless Handheld ( www .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_47525.2",
+      "text": "Representatives from federal agencies were also in attendance .",
+      "avg_formal": 2.25,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_33485.0",
+      "text": "Smitherman explained to the parents that if the experiment did n't work , they could always switch back .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_5760.1",
+      "text": "The residents of the area , however , were furious , even though their congressman , Rep. Mario Diaz - Balart ( R - Fla . ) , attached language requiring the Army Corps of Engineers to offer owners of the 77 affected homes land elsewhere in the neighborhood .",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        -3.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_2575.3",
+      "text": "State Sen. Jack Scott , a Democrat and the chairman of the education subcommittee of the Budget and Fiscal Review Committee , has promised to try to help mitigate the cuts .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_58683.0",
+      "text": " There 's an availability of interesting locations there that have n't been overshot the way some places in Toronto and Vancouver have ,  says Disney executive vp production Jason Reed , who oversaw \" Mr. 3000 \" for the studio .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_13913.5",
+      "text": "It 's no wonder everybody wants to be an atty .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_63314.3",
+      "text": "Affordable .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_120576.4",
+      "text": "Assuming this is factual and I have no reason to believe that it is not , this individuals observations contradict the \" no - flee \" assertion .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_71157.0",
+      "text": "This meeting is set up for February 17th .",
+      "avg_formal": 0.75,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_39932.2",
+      "text": "Any new route would be north and west of the original plan .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_70207.1",
+      "text": "We are pleased to respond on behalf of Commissioner Horne .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_80425.4",
+      "text": "I call each firefighter that has been injured .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_49063.2",
+      "text": "I really respect the manner in which you treated me .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_29249.1",
+      "text": "This appropriation provides $ 2,414,000 for Learning Gateway grants and the operation of the statewide Learning Gateway Steering Committee and $ 200,000 for development of a Learning Gateway teacher curriculum .",
+      "avg_formal": 2.6,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_11615.2",
+      "text": "There has been a fierce behind the scenes fight these last years for the old guard Swiftmud staff to regain power .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_2862.2",
+      "text": "Also got the message loud and clear that you were not satisfied with this increase :) .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_4046.0",
+      "text": "I sent a letter to you on November 19 , 2002 pertaining to the support of the Florida Veterans and the National Veteran 's Voting Bloc Pledge you took in supporting Veterans issues here in Florida .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_97403.1",
+      "text": "Surpluses from the Welfare reform on Wages should also be utilize to provide Supportive Living services so that individuals with disabilities can live in their own homes .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_39730.2",
+      "text": "It would be amusing if it was n't really needed .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_88982.0",
+      "text": "I am open to any of your thoughts--I would appreciate the extra 300 .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_121291.1",
+      "text": "This is a wonderful opportunity to support adoption agency .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_92312.1",
+      "text": "If you could only feel the frustration and weariness that we feel from this on - going situation .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_55777.1",
+      "text": "I am passing on your email and offer to Tim Moore and Steve Lauer who coordinate our homeland defense/ domestic security efforts .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_15142.2",
+      "text": "Paul Nashville Orlando Philadelphia Phoenix Pittsburgh Portland Raleigh/Durham Sacramento St. Louis San Antonio San Francisco San Jose",
+      "avg_formal": -0.333333333333,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_15142.0",
+      "text": "Other Markets bizjournals.com",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_77914.1",
+      "text": "What follows are a couple of messages that I have received .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79312.4",
+      "text": "We give kudos to the State Park planners for their efforts on behalf of all of us AND the River .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_59136.1",
+      "text": "You will do a superb job .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26071.2",
+      "text": "Furthermore , HBIF has partnered with the private sector , universities and community colleges , and local governments to extend the reach of HBIF into the international trade sector .",
+      "avg_formal": 2.6,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_87386.0",
+      "text": "Clam Bay , which is a designated NIRPA , is listed among numerous bodies of water which Judge Robert Meale and the State DEP have found to be in violation of water - quality standards .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_51632.3",
+      "text": "If we can provide you or your daughter additional assistance with your particular situation , please do not hesitate to contact me directly .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_24681.1",
+      "text": "i.e. The unborn baby that is a current and front page news/gossip issue - well :",
+      "avg_formal": -1.33333333333,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_76052.0",
+      "text": "I will be in Atlanta tomorrow ; at the WAGES Board meeting on Wednesday ; in the office on Thursday ; and back in the field in South Florida on Friday morning through the weekend .",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_58400.0",
+      "text": "Senator Burt Saunders has also become involved and personally addressed a letter to you , Fed Exed on October 12th , asking your assistance in the behalf of one of his youngest constituents , Sydney Marie Ryan , to secure a medicaid status .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_8803.1",
+      "text": "I do n't believe that children can learn in an environment that is overcrowded .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_120576.0",
+      "text": "The assertion in your response that \" for the very few non - hunters that may wish to enter this area , this no - flee response is not critical \" , troubles me .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_56106.2",
+      "text": "The schools need to be looking beyond IDEA.",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_28272.0",
+      "text": "First , I hope things are going well in your new position .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_68202.0",
+      "text": "I am a citizen concerned about the youth of Florida .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_11615.7",
+      "text": "L. C. Alexander .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_108504.0",
+      "text": "As a follow - up to meeting with Sec .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_15985.2",
+      "text": "Our law enforcement agents annually join forces with local law enforcement in Daytona and Panama City to combat underage drinking and false identification activity .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        -1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_69991.1",
+      "text": "None too soon !",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_11907.2",
+      "text": "Tramm",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_458.2",
+      "text": "However , in bringing back the virtues of old- fashioned capitalism we also brought back some of its vices , most notably a vulnerability both to instability and to sustained economic slumps . \"",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_126486.8",
+      "text": "It comes on the heels of the brutal , alleged murder of death row inmate , Frank Valdes , which the FBI is also currently investigating .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_28272.1",
+      "text": "Let me repeat my offer to help you in any way I can--your success in your new position is very important to all of us in the school choice movement .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_74513.6",
+      "text": "We will not let you down .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_118807.1",
+      "text": "Originally from Augusta , I follow the news there .",
+      "avg_formal": -1.25,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_65728.0",
+      "text": "I am having my assistant overnight to you a packet of material regarding the Tort reform passed in Ohio .",
+      "avg_formal": 0.75,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_51887.10",
+      "text": "Very sincerely yours , William DeGonda 205 Golf Aire Blvd .",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_29249.0",
+      "text": "Thank you for your correspondence regarding the appropriation for Learning Gateway .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_11615.3",
+      "text": "This move will show their success .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_120445.1",
+      "text": "We have example after example of gay and lesbian Christians being treated less than lovingly by virtue of that kind of mentality . \"",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_114027.2",
+      "text": "We have so advised Mr. Smith .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_51887.8",
+      "text": "Thank you so much .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_71197.1",
+      "text": "Great work .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_105828.5",
+      "text": "This makes the \" teach to the test \" argument less relevant .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_18578.0",
+      "text": "Thank you so much for your time !",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_124686.1",
+      "text": "Ralph Charles Whitley , Sr .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        0.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_105828.2",
+      "text": "You know that the FCAT is not a bubble test .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_59035.0",
+      "text": "Just a quick follow - up on how my program is going .",
+      "avg_formal": -0.5,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_107865.1",
+      "text": "Bon Voyage , Have a great trip !",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_38498.1",
+      "text": "If they were Great in the field and either hated ; or , did poorly on monthly reports I relieved them of some of that .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_78253.4",
+      "text": "Any information having to deal with the election of our governors would be very helpful to me .",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_201.7",
+      "text": "Staff/Admit Nurse for Tulane Medical Center and Pendleton Memorial Methodist Hospital in New Orleans , LA while completing Masters Degree .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_99019.3",
+      "text": "I ca n't seem to put my hands on Matt Cohen 's email address right now .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_105725.1",
+      "text": " I just ca n't see prosecuting a person who has n't done anything to an identifiable victim .  Society \" is not a victim , if anything it is a perpetrator , victimizing others .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_31399.3",
+      "text": "Simply because of the format of a test .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_23602.0",
+      "text": "Most sincerely , Janis and George Schluchterer 338 St. George Ct .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_30474.0",
+      "text": "Michael D. Esposito Senior Vice President Human Resources ADT Security Services , Inc.",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_5140.2",
+      "text": "As we start to implement the new federal reform legislation it is going to be imperative that we again spend the money it takes to educate voters .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_23329.0",
+      "text": "P.S. Bill Hebrock is a very good trustee .",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_96414.1",
+      "text": "If there is any way I can be of assistance , or you need me for any volunteer or special projects , I 'm always available .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_48354.1",
+      "text": "When I spoke with the State Attorney 's office I was told I needed to contact the girl 's caseworker .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_47048.3",
+      "text": "She also has my # if she has questions .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_77994.1",
+      "text": "To some degree , we believe it should .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_66158.2",
+      "text": "Please note that the latest DOE and DCF personnel actions have not yet been detailed by those agencies nor entered into the system .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_124968.3",
+      "text": "The passage of the Comprehensive Test Ban Treaty ( CTBT ) -- and its restrictions on testing the reliability of current nuclear missiles -- would have made that next to impossible .",
+      "avg_formal": 2.5,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_47185.1",
+      "text": "What are the unintended consequences ?",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_61128.1",
+      "text": "I was forced in the January 17 , 2002 hearing to sign over my land on Highgate Court or go to jail for 10 days which is in clear violation of my Civil rights .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_36126.1",
+      "text": "I will keep you posted as you can expect I will be all over this .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_75594.7",
+      "text": "I suspect the Boards audit committee will not help restore or implement financial controls under this leadership , so it is important that the new Executive leadership of the District includes a \" Cost Cutter / Financial Controller \" .",
+      "avg_formal": 2.5,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_122705.4",
+      "text": "It 's all about peace and every man 's right to be .",
+      "avg_formal": -1.5,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_55375.1",
+      "text": "Bush 's salary in 1981 : $ 41,408 .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_88870.4",
+      "text": "On that trip I do remember on the return flight bieng asked if I had purchased anything that I should declare so , for it to slip your mind you must have been on a private jet which distances you even further from the realities of day to day life of the average Joe that may have voted for you .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_92916.0",
+      "text": "I am sending your email to Larry Fuchs who is the Secretary of the Department of Revenue .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_51632.1",
+      "text": "We strongly support opportunities for individuals with developmental disabilities to participate as valued , contributing citizens of their communities and achieve their personal goals .",
+      "avg_formal": 2.75,
+      "votes_formal": [
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_63314.5",
+      "text": "http://mailplus.yahoo.com",
+      "avg_formal": -0.5,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_108886.6",
+      "text": "They have formed a neighborhood watch program and will patrol the areas that the children will be walking to school .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_105725.0",
+      "text": "Even though you feel the smugglers from Miami need to be punished , you have n't addressed the problem of a \" victim .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_51609.2",
+      "text": "warren j. brown md .",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_830.2",
+      "text": "Adjunto su \" updated \" resume .",
+      "avg_formal": 0.666666666667,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_60618.5",
+      "text": "And , you need to explain to the press the special relationship individuals associated with this case have had , or do have to the Hospice Board .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_91970.2",
+      "text": "If parents feel so strongly that their kids should not attend a QUALITY PUBLIC SCHOOL because their religious beliefs , it should be up to the parents to fund their own intiatives ... NOT RESIDENTS OF FLORIDA.",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_27922.0",
+      "text": " Jeb Bush  < jeb@jeb.org > To : Kathleen Kearney/D20/DCF@DCF , Larry Pintacuda/D20/DCF@DCF 06/11/02 04:51 PM cc :",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_50728.0",
+      "text": "< mailto:jamienick@msn.com",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_61887.2",
+      "text": "Do we keep taking water form other areas until nobody has water ?",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_113158.5",
+      "text": "2 . Providing comprehensive services to insure that each and every child is healthy , socially developed and otherwise ready to learn by the time she or he reaches 1st grade .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_113158.6",
+      "text": "3 . Reducing the number of years parents must pay for early child care/education .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_23848.6",
+      "text": "The question should not be on the poll as it is very misleading .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26077.1",
+      "text": "will then end at 4 pm .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_83061.1",
+      "text": "I applaud your principles .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_13641.0",
+      "text": "We would like you to share a few words about the importance of good citizenship and applaud this group of students for the good citizenship they have displayed during the school year .",
+      "avg_formal": 2.75,
+      "votes_formal": [
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_11907.0",
+      "text": "Good luck with the legislature this session .",
+      "avg_formal": -0.5,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_48962.5",
+      "text": "Should I share , or censor and share , or not share ?",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_42668.4",
+      "text": "Stephen A. L. Rothschild .",
+      "avg_formal": 1.33333333333,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_50040.0",
+      "text": "I know that you must do your duty as a Governor , but there has to be something you can do .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_50677.0",
+      "text": "P.S. If your Internet security removes the attached letter , you may contact me at ( 850 )",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_48852.3",
+      "text": "I am officially requesting a personal meeting at your convenience .",
+      "avg_formal": 2.75,
+      "votes_formal": [
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_77994.2",
+      "text": "Will it have unintended consequences ?",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_23812.1",
+      "text": "but I need your help .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_74085.0",
+      "text": "I am passing along your information regarding school choice to our education policy unit .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_94429.1",
+      "text": "A \" training \" were prospective mentors can learn some basic appropriate etiquette , e.g. how to address , or not to address people , ( the does and do n't 's ) , to direct conversation toward individuals , instead of to others , to call people by their name , to just get to know the person as an individual , not as a \" disable person \" .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        0.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_48892.1",
+      "text": "Through the Society of St. Vincent de Paul we were able to get him a motel room for three days and nights to allow him time to find an apartment , which we would then help for his first months rent .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_78690.0",
+      "text": "The Charlotte County Sheriff 's office has been searching for a missing 6 year old girl ( originally from Dade County ) for over a week .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_55708.2",
+      "text": "( It 's a large file , so please be patient ) .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_48962.2",
+      "text": "I hope that you know that no aspersions were intended to be cast , I want only success for EF and for BioFlorida .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_76521.0",
+      "text": "Thanks Tom .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_126232.0",
+      "text": "The proposed reserve will protect a wide range of habitats ( including seagrass beds , coral reefs and pinnacles , spawning grounds , and hardbottoms ) and will conserve areas of highest biodiversity , thereby meeting important environmental goals .",
+      "avg_formal": 2.8,
+      "votes_formal": [
+        2.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26071.0",
+      "text": "HBIF , which is a non - profit organization , provides bilingual services to help people start their own businesses , help struggling business owners who are at risk of closing their doors , and help successful business owners expand their businesses .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_32226.0",
+      "text": "In a message dated 6/4/03 1:22:45 PM Eastern Daylight Time , Ernie .",
+      "avg_formal": -0.5,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_32186.7",
+      "text": "With a hurting heart , Burma",
+      "avg_formal": -2.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_13912.7",
+      "text": "The plaintiff stands to get approximately 50 % of what ever is awarded .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        0.0,
+        0.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_39777.1",
+      "text": "Lee said .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_65112.0",
+      "text": "How wonderful !",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_114317.1",
+      "text": "Do let me know how we can continue to be involved in this exciting project .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_21019.0",
+      "text": "Even with the highest percentage of students in attendance at charter schools in the entire state , public schools are extermely overcrowded .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_3468.1",
+      "text": "No hay un programa en si , al nivel estatal .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_100104.1",
+      "text": "Its should be pretty obvious to anyone that cares to look at the facts that a major change is needed .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_53942.1",
+      "text": "It 's also pretty cool that there are two of us from Florida .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_60386.9",
+      "text": "I wonder what the dems .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_54226.2",
+      "text": "We now need to make sure that she is positioned in a way that she can make changes that will promote employment and change the view of the VR counselors .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_55708.0",
+      "text": "Dear Governor Bush , Senator Rudy Garcia introduced me to you this afternoon and Armando Bucela also spoke to you about me at the Latin Builders luncheon .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_96923.0",
+      "text": "Thank you so much for writing .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_20870.0",
+      "text": "Long a presence in Florida Republican circles , Mel Sembler was tapped as ambassador to Australia in 1989 .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_76445.0",
+      "text": "But this column is not to point fingers at culprits .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_62385.4",
+      "text": "Up to this point in time , neither my husband nor myself has ever been formally accused of any type of child abuse or criminal act in relation to any of our 3 children , the Schools our children attend , or any School District Personnel .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_45154.3",
+      "text": "We have a friend who is a fellow advocate , who has donated for the short term , a place for us to begin business .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_68869.2",
+      "text": "This is our rational to justify a supplemental budget request for the department : 1 ) Cease and desist the practice of \" Certify Forward .",
+      "avg_formal": 2.8,
+      "votes_formal": [
+        2.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_52602.2",
+      "text": "Osceola County needs an outreach .",
+      "avg_formal": 0.75,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_98607.1",
+      "text": "George Hodges is a supporter of yours , as well as the \" major \" benefactor of the University of North Florida .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_120576.3",
+      "text": "I have not talked with him personally , but have been told by another member of the Association , that he advised the trail master for that section of the Florida Trail , that not only had he accomplished the feat but that during his journey he saw numerous \" running deer \" .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_34968.0",
+      "text": "3 ) When you look at the past six years from ' 96-'02 , you will see that Florida has seen 84 percent of its clients transition to those receiving benefits .",
+      "avg_formal": 1.66666666667,
+      "votes_formal": [
+        -1.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_85204.4",
+      "text": "Of course I look like a fool in front of someone that has never refused to help in whatever Bush cause I asked help for .",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_124309.2",
+      "text": "That 's not right .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_78533.0",
+      "text": "This legislation would make it very difficult for injured consumers and the families of many sick and injured children to sue and obtain adequate compensation from the companies responsible for causing their injuries , destroying yet another safety net for many vulnerable children and families .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        -1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_123420.0",
+      "text": "NEH OUTLOOK A MONTHLY E - MAIL NEWSLETTER OF THE NATIONAL ENDOWMENT FOR THE HUMANITIES ( www.neh.gov )",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_48852.0",
+      "text": "It was a pleasure meeting you yesterday at the Governor 's Front Porch Florida Conference .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_30948.1",
+      "text": "In kind , I have written a second set of charges citing Early Intervention 's summarily dismissal of federal law and of state policy on February 21 , 2002 .",
+      "avg_formal": 2.6,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_21965.1",
+      "text": "BlackBerry.net )",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_29210.4",
+      "text": "They were intelligent , well - read . \"",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_94281.2",
+      "text": "Higher pay above cost of living increases should be based on performance .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_90821.3",
+      "text": "More likely , we will receive significant pressure from participating states , including their respective Congressional delegations , to provide the stockpiles immediately .",
+      "avg_formal": 2.6,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_90838.2",
+      "text": "The limitations imposed by the bill would not have been necessary if the insurance industry had been more prudent and less abusive of both patients and their physicians .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_15985.3",
+      "text": "Amazingly , we made a total of 4,284 arrests and seized over 7,500 pieces of false identification in just over 30 days .",
+      "avg_formal": 0.75,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_24443.1",
+      "text": "Brandi Langford will be in touch .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_84044.0",
+      "text": "Good Evening Governor !",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_128888.1",
+      "text": "Quite a bit , actually .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_11468.0",
+      "text": "thank you Scott .",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_61887.3",
+      "text": "Please do not endorse !",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_26912.6",
+      "text": "But Quest did ask first .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_74513.3",
+      "text": "It also reenforces the importance of our Strategic Plan .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_46487.1",
+      "text": "Family problems are the worst problems to have ....",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_111312.0",
+      "text": "Attached is the most recent activity report on the follow up from the 10/7/99 Base Commanders Luncheon .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_113703.0",
+      "text": "Karla F. Aaron Hialeah Metal Spinning , Inc. 8155 W. 20th Ave .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_54532.3",
+      "text": "The public has been promised an effective non - partisan grant committee and powerful spay and neuter education in our state .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_16824.1",
+      "text": "When there was enough evidence to REMOVE kids TWICE by then...WHAT do people need before that say , \" Do n't send them home--A CHILD 'S BODY ? ?",
+      "avg_formal": -1.25,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_49755.1",
+      "text": "It 's supposed to be especially helpful in finding duplicate registrations created when people move from county to county .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_88870.3",
+      "text": "I probably unlike the vast majority of your constituants have been to Europe and I did not claim anything with customs when I returned because I could not afford to spend up to the limit much less exceed it by such an amount .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_74513.2",
+      "text": "I told a reporter today that we could not have asked for a clearer statement of support for a set of principles which will assist us in building a national class university system .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_38498.0",
+      "text": "As a Medical & Social Service Supervisor for HC , I knew the strengths and weaknesses of each one of my Social Workers ; and , I compensated for them .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_80425.2",
+      "text": "I did fly over the damage and it was extensive and sad to see .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_19295.1",
+      "text": "But no irreversible harm will come from putting this reform bill off another year so adequate provisions can be made to protect all the people .",
+      "avg_formal": 2.6,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_113158.4",
+      "text": "Screening each enrolling child for developmental abilities .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_38289.4",
+      "text": "Jan Fowler 813-920-7880",
+      "avg_formal": 0.666666666667,
+      "votes_formal": [
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_63922.0",
+      "text": "Jeb Sent from my BlackBerry Wireless Handheld ( www .",
+      "avg_formal": -1.66666666667,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_122705.2",
+      "text": "To compliment AIM 's FAST AT THE CAPITOL , The JOURNEY FOR JUSTICE offers to share our FEAST AT THE PRISON.",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_76196.1",
+      "text": "It was largely ho - hum .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_22964.0",
+      "text": "perception versus reality .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_127536.0",
+      "text": "National Drug Policy Director Barry R. McCaffrey reiterated his opposition yesterday , saying the initiative \" flies in the face \" of findings issued this year by the National Academy of Sciences ' Institute of Medicine .",
+      "avg_formal": 2.5,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_68202.1",
+      "text": "I fear that the pending budget debate will result in sacrificing them .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_44599.2",
+      "text": "Facsimile junger@grayharris.com www.grayharris.com",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_72314.1",
+      "text": "I would like to know our plan of action before the end of the year .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_77669.2",
+      "text": "Let me quote the complete verse from \" Mrs. Robinson \" :",
+      "avg_formal": -1.5,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_50759.3",
+      "text": "If a virus , worm , or Trojan infects a computer , System Restore may back up the virus , worm , or Trojan on the computer .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_62385.7",
+      "text": "Phyllis Reff",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_117280.0",
+      "text": " As good as gold ,  said Bob , \" and better .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_94794.0",
+      "text": "We , as a state , got all that tobacco money",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_17265.1",
+      "text": "We are on the case .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_101202.0",
+      "text": "If you would like a briefing from David Mosrie , Division Director of Public Schools , I 'll be glad to set it up whenever it is convenient for you .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_53320.0",
+      "text": "In accepting that reasoning , we in the news media are also not engaged in the protests .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_47903.1",
+      "text": "The approach must involve the homeless directly in the program , and must find them a job in the private sector .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_72272.1",
+      "text": "Some people who are able to work could wean themselves off food stamps , subsidized housing and other public programs on which they currently depend .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79654.8",
+      "text": "Three Collins appointed committee members , sort of an early Water District that faced some critical problems in our area , conditions which unfortunately still exist in even worse environmental matters .",
+      "avg_formal": 2.5,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_113062.3",
+      "text": "Please do not allow any more Everglades development .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_47049.1",
+      "text": "< jeb@jeb.org > 08/18/02 07:10PM > > > Karen , can you lend a hand ?",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_124968.0",
+      "text": "The United States does not have a national missile defense .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_9327.0",
+      "text": "The TEA wo n't know how many missed the TAKS until May , when it receives data from NCS Pearson , the testing contractor .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_58400.1",
+      "text": "The Senator 's letter , as well as the package we sent with complete documentation , to your Chief of staff , Kathleen Shanahan , has never made it to your attention .",
+      "avg_formal": 2.25,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_121250.1",
+      "text": "The only unknown is just how long it 's going to take , but your actions will certainly help the victory to come sooner .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_80425.0",
+      "text": "Betty , thanks for writing .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_90821.4",
+      "text": "Thus , we have to be prepared to absorb these costs within a relatively short period of time .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_13604.0",
+      "text": "I know how busy you are , and I do n't mean to bug you , but have you received the various citizens comments ( about the UCF Master Plan )",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_12435.0",
+      "text": " She just smiled and pointed to me , ''\n0.333333333333\t0.0,0.0,1.0\tJebBush_78253.7\tTiffany Evans\n-0.6\t-2.0,-2.0,-1.0,0.0,2.0\tJebBush_65872.1\tI can do a reading in the evening or over the weekend .\n2.4\t1.0,2.0,3.0,3.0,3.0\tJebBush_124686.4\tIn accordance with Title 17 U.S.C. Section 107 , this response or material(s ) and/or file(s ) attached is(are ) distributed without profit to those who have expressed a prior interest in receiving the included information for research or educational purposes .\n2.2\t1.0,2.0,2.0,3.0,3.0\tJebBush_9103.2\tI was advised to the contrary .\n1.4\t-1.0,1.0,2.0,2.0,3.0\tJebBush_70405.1\tBefore we can submit a proposal to FERC , we have to demonstrate that there is market support for [ our ] project . ",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_87403.4",
+      "text": "Gene Hayes , 8700 SW 206 Ct , Dunnellon , Fla. 34431 ( Romanenvoy@aol.com ) .",
+      "avg_formal": 0.666666666667,
+      "votes_formal": [
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_56106.3",
+      "text": "Reasonable accommodations that promote community integration need be made .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_5140.6",
+      "text": "After enjoying the benefits of statewide advertising to get our message out we feel very strongly that we need to secure a permanent funding source to fund voter education .",
+      "avg_formal": 2.6,
+      "votes_formal": [
+        1.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_119525.0",
+      "text": "5 .",
+      "avg_formal": -0.666666666667,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_45154.4",
+      "text": "We are hoping to secure an arrangement so the Family CAFE will survive .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_91903.0",
+      "text": "well i am on the count down monday at 200 pm i hope that this will be all over with .",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_18739.6",
+      "text": "However , falsification of records can not be tolerated from anyone in any state job and I am a state employee to",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_32006.0",
+      "text": "I watched the webcast from my vacation house in the mountains of Virginia .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_129762.1",
+      "text": "Miami - Dade Community College ( funded by public money ) would make reports to The State Retirement Division .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_38498.2",
+      "text": "If they did n't feel comfortable with a certain type of case , I took on that case ; or , assigned it to someone else .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_7411.2",
+      "text": "In 1987 , I was named Chief of Mission and Representative to the United States for the Inter - American Institute for Cooperation on Agriculture ( IICA ) , a specialized agency for the OAS dealing with agricultural development in the Hemisphere .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_98066.2",
+      "text": "Look under Government Officials",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_126486.7",
+      "text": "What we are describing here in brief has become FBI File # 282-0 .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_31077.0",
+      "text": "Charles M. Auslander District 11",
+      "avg_formal": 0.75,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_47185.0",
+      "text": "Will the amendment improve education ?",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_13913.2",
+      "text": "can make so much money that they cover the airways with advertising .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_60618.1",
+      "text": "I 've done scores of stories on Hospice good mission .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_124893.0",
+      "text": "Not only is that a problem , but the way that the school makes academics a backseat to sports , especially football .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_68869.5",
+      "text": "The $ 30 million lost in Governor Bush 's budget request 02-03 was slated for consumers on the wait list .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_36103.1",
+      "text": "I will send if you approve .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_13913.3",
+      "text": "The caps need to be put on the legal costs not the plaintiff awards .",
+      "avg_formal": 0.75,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_13319.1",
+      "text": "The New Yahoo !",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_40626.1",
+      "text": "Any good operator is not going to operate here .",
+      "avg_formal": -0.5,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_88007.2",
+      "text": "Who is going to enforce that law in a religious school ?",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_122969.0",
+      "text": "Your local school system is responsible for the students ' education and all activites related to that .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_31399.6",
+      "text": "But I can remeber the whole idea and stories behind this , the lesson that was trying to be taught .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_51887.9",
+      "text": "God bless you .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_31853.1",
+      "text": "Al O",
+      "avg_formal": -0.5,
+      "votes_formal": [
+        -3.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_7463.2",
+      "text": "It is time the FBI and U.S. Attorney explain to the public why ?",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_128015.2",
+      "text": "She will most likely require psychological treatment , along with myself .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_59283.3",
+      "text": "The outspoken teachers and a very few parents of this school would rather remain staus quo with a D or F rating than assist me in continuing the efforts I have begun .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_6503.2",
+      "text": "Saludos , M",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_94794.3",
+      "text": "It sure would be cool not to have to visit a bar or restaurant and come out smelling like the bottom of an ashtray !",
+      "avg_formal": -2.5,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_65112.2",
+      "text": "Perhaps now you can understand just how important Gov. Bush 's Mentoring Initiative is .",
+      "avg_formal": 1.25,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_15708.6",
+      "text": "Thank you , Page Falconer",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_34576.2",
+      "text": "b ) City of Miami Commissioner Johnny Winton has suggested a vehicle and rail tunnel from the foot of the Port of Miami bridge to major Interstate connections .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_51887.1",
+      "text": "When the sun is shining on the beautiful green foliage of the Gardens , the millions of colorful flowers and the hundreds of people watching the acrobatic water skiers is NOT my favorite time to be at the Gardens .",
+      "avg_formal": -0.666666666667,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_122654.3",
+      "text": "I do n't really think this is the intent of your education plan .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_82935.1",
+      "text": "Thanks , all .",
+      "avg_formal": -1.25,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_58137.1",
+      "text": "The primary and hot issue of Mr. Curenton 's Grand Jury was the pipeline issue and the failure of the primary contractor , James Finch , to bury that sewage pipeline as required by the contract and the failure of county and state officials to enforce the requirements of the contract specifications to bury the pipeline under the bottom of our now - pristine St. Andrew Bay waters .",
+      "avg_formal": 0.666666666667,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_33867.0",
+      "text": "thank you Jim .",
+      "avg_formal": -1.25,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_118807.0",
+      "text": "Bill Paschal , Jupiter,Fl . says : Gov. Bush , with all due respect , I thought you may be interested in this news article .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_7356.0",
+      "text": "Jeb- two quick things :",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_10177.0",
+      "text": "Rita , thank you for your email .",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_104133.1",
+      "text": "Free software , free e - mail , and free Internet access for a month !",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_94429.0",
+      "text": "On your questions , and thinking about Lucy 's situation and that of others that are my friends , and my \" clients \" , probably just a sensitivity training will do it .",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        -3.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_29210.2",
+      "text": "The farming family raised cotton , soybeans and cattle .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_29341.3",
+      "text": "I thank that the score for passing the HSCT test could be between 600-700 .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_47525.3",
+      "text": "We could not have done this without the help of the media .",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_129718.0",
+      "text": "RODGER C. CLAPP rodgercclapp@msn.com RCLAPP6070@AOL.COM READ MY 2 WEB PAGES : http://www.rodger121.com ( WATCH DOG ) http://www.rodgercclapp.com ( GOVERNMENT WATCH ) 407-296-3108 WA6JMK/4 14.300.00 MHZ. 4138 YELLOW PINE LANE ORLANDO , FLORIDA 32811",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_88526.2",
+      "text": "I do not trust them and neither should you .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_60386.3",
+      "text": "This may be one of those tests from the lord , i do n't know .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_46125.1",
+      "text": "As of today , it appears that your attendance may not be possible .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79035.3",
+      "text": "My wife , thinking I would be significantly effected physically , completely restructured our lifestyle , placing my business in a caretaker status , moving us into a small condo ( which I initially hated ) and dramatically simplifying our lives .",
+      "avg_formal": 2.6,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79002.0",
+      "text": "> > > \" Jeb Bush \"",
+      "avg_formal": -1.5,
+      "votes_formal": [
+        -3.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_18021.1",
+      "text": "There are two reasons for this : ( 1 ) I hope that you would never wish to replace me under these circumstances with someone who opposed my work while I held office and ( 2 ) I know that you care as much as I do about continuing our work with the state on water quality and other issues , priorities not shared by all of the emerging field , You may reach me at any time via cell phone at 305-393-1666 if you need to discuss .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_123933.2",
+      "text": "Neat trick .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_29249.2",
+      "text": "Recently , the Governor vetoed this funding for the Learning Gateway initiative .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_82963.1",
+      "text": "We will be briefing Wayne McDaniel on Wednesday of next week .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_130027.1",
+      "text": "He was not in volved in the crime amd needs someone to read the court transcripts ?",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_46731.0",
+      "text": "< http://www.tallahassee.com/images/component/divider_rail_top.gif",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26071.3",
+      "text": "HBIF is already considered in many private and public arenas to be an effective avenue to promote international business and are using HBIF toward that end .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_74513.7",
+      "text": "Adam",
+      "avg_formal": -1.33333333333,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_113062.1",
+      "text": "I am obliged to at least attempt to get you to listen to reason .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_71588.1",
+      "text": "How is business ?",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_126686.0",
+      "text": "The line beginning with \" < < < \" describes the specific reason your e - mail could not be delivered .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0,
+        0.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_13641.2",
+      "text": "The program is planned and implemented by parent volunteers .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79986.2",
+      "text": "Thought you both might be interested in looking at it .",
+      "avg_formal": -1.25,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_95425.0",
+      "text": "On 080299 I met with Pauline Tracy who is the Deputy District Administrator for Distric 6 .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_60618.2",
+      "text": "They helped one of my uncles die NATURALLY in New Jersey .",
+      "avg_formal": -2.25,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_29240.3",
+      "text": "This is exactly what liberal critiques of reform do not predict .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_45511.2",
+      "text": "As for me , I am quite proud to be numbered among those supposedly \" ignorant...shallow political opportunists or marionettes beholden to unseen dastardly interests \" who helped form the consensus , bi - partisan plan for Everglades restoration .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        0.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79035.1",
+      "text": "In fact the weekend prior to Christmas , the doctor told my wife she did not think I would make it through the weekend .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_79654.4",
+      "text": "I sincerely hope it was nothing serious affecting persons there or to the physical complex .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26332.0",
+      "text": "* One in five older Americans - about 7.3 million people age 65 and older - reports some degree of vision impairment , even when wearing glasses or contact lenses .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_103046.2",
+      "text": "It was a warning of legal problems he might encounter because of campaign finance regulations .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_18739.5",
+      "text": "The majority of the workers do a good job , based on their training and knowledge , I know that .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_128549.1",
+      "text": "From the fine track record you have so far I am sure that you have reasons .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_97385.0",
+      "text": "I chair the Legislation Committee .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_104180.0",
+      "text": "She also stressed the jury 's verdict did not necessarily find the agency at fault for complete negligence .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26314.2",
+      "text": "We are prepared to begin the implementation of our plan on February 1 , 2003 , provided that the necessary operational agreements can be concluded .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_61824.0",
+      "text": "Displacing the most vulnerable children in our society like those at Duvall Presbyterian Home would be a travesty .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_7411.0",
+      "text": "Originally from Texas , I worked for 21 years for Southwest Research Institute in San Antonio , where I was in charge of international programs .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_99019.1",
+      "text": "I want this stopped now .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_79312.3",
+      "text": "The State has made a tremendous effort to improve facilities , traffic flow and to manage for the people this spectacular site .",
+      "avg_formal": 2.5,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_42525.3",
+      "text": "This will eventually become billions as this population ages .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_29383.1",
+      "text": "We discussed the next steps we could take together to ensure that the FTAA Secretariat comes to Miami .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_104180.1",
+      "text": "And , to a degree , she was right .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_13319.4",
+      "text": "Bingo http://search.yahoo.com",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_100979.0",
+      "text": "You've got my 100 % support on the voucher system .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_65393.1",
+      "text": "I am forwarding it to you in an attempt to seek your intervention if possible , to keep Frank Savage from proceeding .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_122470.0",
+      "text": "I am representing a local low income Orlando school that wants to take some kids on a field trip to Tallahassee .",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_88007.1",
+      "text": "It is against Florida law for teachers or students to discriminate against students on account of sexual orientation .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_75615.2",
+      "text": "Without a student as a named plaintiff , the school can allege that the claim regarding program compliance such as problems with IDEA , can not be addressed within the lawsuit .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_91515.1",
+      "text": "I am sending this along to Frank Brogan who has taken the lead in finding a replacement .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        -1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_105725.3",
+      "text": "This seems ridiculous while we receive notices from authorities that a known pedophile has just moved in down the street .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -3.0,
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_66613.2",
+      "text": "Good luck in your decision making .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_38730.2",
+      "text": "- - Costas .",
+      "avg_formal": -0.5,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_42668.3",
+      "text": "Thank you .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_106112.0",
+      "text": "No - sorry - I had someone come in the office and I accidently hit return which went to you !",
+      "avg_formal": -1.75,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_122654.0",
+      "text": "Is or was this the intent of your plan ? ?",
+      "avg_formal": -1.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_4046.2",
+      "text": "As I mentioned in my letter , Florida has the Nation 's most disabled Veterans and with only one claims office .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_110434.1",
+      "text": "Keep the Faith of the people with him .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_76716.2",
+      "text": "The vote in both Houses was near unanimous in favor of reauthorization .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_11468.1",
+      "text": "I thought it was a great meeting .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_98272.2",
+      "text": "WE are doing everything we can to streamline the process .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_108886.5",
+      "text": "I am also proud to report that the community in and around the school has realized that the school district and the law enforcement can not do it by themselves !",
+      "avg_formal": 1.25,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_103046.0",
+      "text": "Just a few days later , Smith was contacted by Koskoff 's campaign manager .",
+      "avg_formal": 1.25,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_97309.0",
+      "text": "Dear Governor Bush , we met when you were campaigning and visited an FMPTA meeting .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_11344.0",
+      "text": "I understand that you will be in the Tampa Bay area on Wednesday .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_94779.3",
+      "text": "How did you refer to it ? ... \" Escuela Charter \" ?",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_79986.0",
+      "text": "This man keeps e - mailing me about Smart Growth .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_75274.0",
+      "text": "Give Mary a hug today .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_11779.1",
+      "text": "I believe that having served with Estelle Ernstoff my first 2 years on the board , she brought a very important voice to the board .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_107865.0",
+      "text": "Anchors away !",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_105828.1",
+      "text": "But we are saying if they are not learning , there should be a consequence .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_63314.0",
+      "text": "__________________________________________________ Do you Yahoo ! ?",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_31399.2",
+      "text": "I find that getting upset over this has acum to nothing , I will always try my best but this is not the way to learn for me and other teachers and students .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_52709.1",
+      "text": "Shelly Brantley had Susan Kemper from",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_32006.1",
+      "text": "I am so proud of you and our state .",
+      "avg_formal": -0.5,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_104133.2",
+      "text": "Try Juno Web : http://dl.www.juno.com/dynoget/tagj .",
+      "avg_formal": -1.5,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_108460.2",
+      "text": "It would mean a lot to me for him to know that this humble citizen still deeply regrets that the country was duped into replacing him as it 's President in 1992 .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -3.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_6041.0",
+      "text": "I am writing to you because I have tried everything else .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_11615.4",
+      "text": "If the Governor makes this appointment we are back to square one !",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_105312.1",
+      "text": "Of course , I ca n't say for sure that Jan. , 2001 will be the exact date of the commissioning as it depends on the building schedule at Bath Iron Works .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_35170.2",
+      "text": "Since he is handling it this way , he will not issue a formal statement .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79654.2",
+      "text": "As a veteran Democrat of 55 years recently registered of Republican persuasion because of certain early actions of your administration I did n't expect , and , frankly , the Clinton scandals which do not fit my moral beliefs , I was impressed with the subtle changes I saw on the Tallahassee scene since your arrival .",
+      "avg_formal": -0.666666666667,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_16768.6",
+      "text": "Get the picture ?",
+      "avg_formal": -3.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_26631.0",
+      "text": "This moron - promoting characteristic has led some scientists to speculate that ADMINISTRATIUM is formed whenever morons reach a certain quantity in concentration .",
+      "avg_formal": -2.8,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_49076.2",
+      "text": "They do n't appreciate the value of a business plan , but a marketing plan is more to the point for them - where 's the money ?",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_13604.3",
+      "text": "I just really hope you have a chance to read them .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_93583.0",
+      "text": "- it has not yet been fully determined - the ball is in CP 's court - but we see no real advantage to our seeking Orphan Drug designation .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_93583.2",
+      "text": "Similarly a \" Treatment IND \" will probably bring no advantages in time .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_88526.1",
+      "text": "Their previous actions speak for themselves .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_98066.1",
+      "text": "http://www.gulf1.com",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_18578.1",
+      "text": "Rhonda D. Hall",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_57330.1",
+      "text": "I am asking that Laura Branker of my office look into this matter .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_124686.2",
+      "text": "Petitioner , non attorney c/o BACKFLOW PREVENTION , INC. PMB 303 1222 S. Dale Mabry Hwy .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_92916.1",
+      "text": "He is an expert on child support and might have a suggestion on how we can help you .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_4046.1",
+      "text": "One major issue we requested is your help in obtaining an additional VA Regional Claims Office here in Florida to cut down on the long delays in the VA looking at claims here in Florida , sometimes , the Veteran has passed away before their claim is looked at , the Florida Veterans deserve better than this .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_116054.2",
+      "text": "We have a commitment for the loan @ LIBOR + 60 basis points either to Spaceport , Palm Beach County , or Pratt , but have not been successful in determining a method of funding a buy down .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_75594.1",
+      "text": "Interim Director Jim Harvey ( a good man ) is communicating well , has great insight to the organization , beginning to change senior management and taking some heat , but he can handle it .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_110003.0",
+      "text": "As long as I got you , a for what it is worth item .",
+      "avg_formal": -2.33333333333,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_108886.1",
+      "text": "We have only received 2 that will be attending .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_28747.2",
+      "text": "The student even wrote her state rep and Charlie Crist , to ask for her results , before calling me .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_22938.1",
+      "text": "> >",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_91988.1",
+      "text": "Can we discuss .",
+      "avg_formal": -0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_44599.1",
+      "text": "577-3311",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_18739.9",
+      "text": "I 'm glad the legislature and you have agreed to strengthen those laws .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_16768.0",
+      "text": "Dear Governor Bush : There is a bill before you at this time to all anyone to fly a flag anyway they please without any restriction or standards by Homeowner Association .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        -1.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_124725.0",
+      "text": "And there is little hope that Al Gore , also a former marijuana user , will be much better .",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_86652.2",
+      "text": "No me imagino como se sentiran los padres que tienen que poner a sus hijos en \" group homes \" o instituciones .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_51632.2",
+      "text": "Please be assured that we have not implemented any policies to require individuals with developmental disabilities living in group facilities to limit family visitations .",
+      "avg_formal": 2.75,
+      "votes_formal": [
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_92320.1",
+      "text": "Also , I want you to know that I remain committed to help your team in any way that I can as a private citizen - whether that be service on an \" ad hoc \" task force or problem solving team , or appointment to a board or commission dealing with environmental and/or community development issues , or simply lending a hand when needed .",
+      "avg_formal": 2.6,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_129762.0",
+      "text": "To help see this more clearly , The University of Miami ( a private University ) would not make reports to The State Retirement Division .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_48892.2",
+      "text": "I was able to secure him employment through a friend who owns a plumbing company .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_59353.0",
+      "text": "Thank you for assisting with girl on life support I really do n't understand the judicial system .",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_122969.1",
+      "text": "I will forward your message to the Governor 's policy unit for more specific answers , but I would urge you to continue to work with your local school system and contact your local school board members .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26077.2",
+      "text": "they can still tape after that if he has enough time available .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_129368.3",
+      "text": "Well , I think non - payment of child support impacts a hell of a lot more citizens than capital murder .",
+      "avg_formal": -1.25,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_76892.1",
+      "text": "Berthy",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_110003.1",
+      "text": "A little bird has told me that Sharon Mullane 's name was not submitted to you .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_75594.12",
+      "text": "Tom McCracken",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_94019.2",
+      "text": "Or is it possible you already know about this information ?",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_95197.2",
+      "text": "Do you believe this ?",
+      "avg_formal": -1.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_79035.7",
+      "text": "but I did n't really mean them , and I probably didn ' t then ) .",
+      "avg_formal": -2.25,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_111615.0",
+      "text": "What we are sharing on the CIVIC PREP list are the final steps \" inserting the KEY STONE \" of pulling together a all the little \" puzzle \" pieces of a massive 3+ year long world wide - community linkeage/connection effort to BRIDGE the GAP with the other side--Government and BIG Business , etc .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_67785.4",
+      "text": "Ayer llamaron a Milton .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_86326.1",
+      "text": "Do n't sell your role short---teachers like you matter in a world where today 's Cecilia story goes like this : \" Mom , Miss Summas upped and decided she 'd add 10 points to everybody 's test grade since most of the class did so poorly on it .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79709.0",
+      "text": "Good morning .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_103841.1",
+      "text": "Cocoa , FL 32926 407-631-6225",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_62197.0",
+      "text": "Governor Bush , Next month will mark the 35th anniversary of Dave Marsh as the chief meteorologist at WESH - TV in Orlando .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        1.0,
+        1.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_59606.0",
+      "text": "I wish we lived in Florida and could support you directly -- maybe you 'll run for President one day ? ?",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_83061.0",
+      "text": "1 . Since you treated all your friends equally , I can not complain about the Fairchild veto even though it is a meritorious regional educational project .",
+      "avg_formal": 1.25,
+      "votes_formal": [
+        -1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_36126.0",
+      "text": "FYI At this point public health threat appears minimal but signicant public concern can be expected .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_74513.4",
+      "text": "We are now working with your staff in OPB on a couple of proviso issues that would be very helpful .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_113285.0",
+      "text": "Thank you Colonel for your memo and thank you for your cooperation .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_54226.0",
+      "text": "God is so good !",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_114410.0",
+      "text": "As a citizen of Gainesville , FL , I urge you to STOP the Ichetucknee Cement Kiln .",
+      "avg_formal": 1.25,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_52602.3",
+      "text": "I am the only member of the FCC for Osceola County .",
+      "avg_formal": 0.25,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_125155.0",
+      "text": "She was a minor and I never received any of the court papers .",
+      "avg_formal": 0.75,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_84044.2",
+      "text": "The files are being fed - exed to me here in Jax tonight for my review .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_201.4",
+      "text": "A documented record of success in administration , worker 's compensation insurance , teaching and on - shore management of an offshore captive corporation , * Director of Claims Management , Mercy Hospital 1997-1999 .",
+      "avg_formal": 2.5,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_85204.0",
+      "text": "Several months ago I turned in the name of R.Jay Taylor of Palmetto for consideration to the Board of the Florida Housing Finance Corp.",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        0.0,
+        1.0,
+        1.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_6503.1",
+      "text": ", Glad you liked one of my many homelands .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_92312.2",
+      "text": "Somehow , there has to be an end in sight and there has to be some changes in the law to protect my children , and others like them , from further reproach so that we can salvage what dignity we have left .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_96414.2",
+      "text": "I know that you are very busy , but if you have the time in the near future , I would love to come by for a short visit .",
+      "avg_formal": 0.333333333333,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_95425.1",
+      "text": "Ms Tracy listened",
+      "avg_formal": -0.8,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_94019.1",
+      "text": "They seem to have a different opinion .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_78690.4",
+      "text": "Our contact at the department is : Lieutenant Gandy or Detectives Kevin Smith or Rick Hobbs at ( 941 ) 637-5441",
+      "avg_formal": 2.5,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_107720.0",
+      "text": "Governor , if this was intentionally done , whoever did it has at least one vote to go to hell .",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_11779.4",
+      "text": "Thanks .",
+      "avg_formal": -1.25,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_1392.0",
+      "text": "Oh...really ?",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -3.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_123933.0",
+      "text": "The tittle bar of this leeter has been altered by the computer scanner somehow .",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_47903.0",
+      "text": "His idea is to find an approach that can reinforce to the homeless person a positive image that they can contribute to their own well - being , their community and to society .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_86269.5",
+      "text": "How will politics influence this decision maker?..It 's the families of the patients that pursue these wrongs because someone they love has been mistreated...PLEASE DO NOT SIGN THIS BILL. I ask that if you do decide to sign HB 2121 , please tell me why you believe in it .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79312.2",
+      "text": "I have been going there since we moved to Gainesville in 1950 , when Loncalla still owned the river bank .",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_34521.0",
+      "text": "The opportunity to use a prototype waiver may help to expedite Florida 's efforts to expand the existing Consumer Directed Care program statewide over the next year and implement key objectives in the Consumer Directed Care Act which passed during this legislative session .",
+      "avg_formal": 2.5,
+      "votes_formal": [
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_38289.2",
+      "text": "We have an obligation to leave our world in a better condition than we found it in and putting selfish short sighted interests in front of saving an endangered animal is not doing that .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_33739.0",
+      "text": "This legislation in no way prevents an individual from protesting the approval of a specific development order approved under the variance standard .",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        0.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_17529.0",
+      "text": "Thank you for inviting me to your Educators Leadership Summit .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_25531.1",
+      "text": "I just wanted you to know that although $ 1 million does n't buy much media , it is an enormous amount to spend on a public relations campaign , and a well - executed grassroots campaign combined with continuing to air the spots through public service announcements and the national \" Truth \" buy , should be able to carry the momentum until the state has some additional dollars to spend .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_114410.1",
+      "text": "People from all over the state enjoy canoing and rafting on the Ichetucknee .",
+      "avg_formal": 0.75,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_68249.1",
+      "text": "Please notify the sender by email if you are not the intended recipient .",
+      "avg_formal": 2.25,
+      "votes_formal": [
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_28301.0",
+      "text": "Dear Governor~",
+      "avg_formal": -1.2,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_44663.4",
+      "text": "That 's horrible .",
+      "avg_formal": -2.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_105390.0",
+      "text": "We are not taxing the internet .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_17518.3",
+      "text": "> > Kathleen , > >",
+      "avg_formal": -0.75,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_113062.2",
+      "text": "My generation will get to clean up the mess you current politicians make .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_125428.0",
+      "text": "As stated before , we did not choose to live with trailers , especially \" used \" ones , in our backyard nor next to an expanding school of 400 students with an additional 19,000 square foot proposed gymnasium in a residential neighborhood ; therefore , we are strongly against your approval of this entire project and its phases .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_56106.4",
+      "text": "The President 's Executive Order 13217 calls for the \" implementation of the American with Disabilities Act 's ( ADA ) integration mandate .",
+      "avg_formal": 2.75,
+      "votes_formal": [
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26912.3",
+      "text": "Clinical lab services are next in line for competitive bidding , and the industry does not like the idea .",
+      "avg_formal": 1.2,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_86269.7",
+      "text": "It is hard for me to also understand why no one voted against this bill .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_94242.0",
+      "text": "The current appropriation is in the Department of Labor , Specific Appropriation 1817 .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_110653.4",
+      "text": "Unlike any of the other candidates , Bob has broad experience in all aspects of criminal and civil law .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_19966.0",
+      "text": "I wrote an article for my web site about the tactics used by an abortion clinic owner that resulted in you giving her $ 10,000 in left over campaign funds thinking she was a Crisis Pregnancy Center .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_114481.1",
+      "text": "5:11 \" Have nothing to do with the fruitless deeds of darkness , but rather expose them . \"",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_4075.1",
+      "text": "We hope to have it on all of the PBS Stations by the end of this month .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26912.5",
+      "text": "There is also the issue of whether to meet with this lab and not other major lab providers like SmithKline Beecham or Laboratory Corporation of America .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_94779.4",
+      "text": "I know there is something very strange about me asking the \" gringo \" for translation suggestions , but , please , please help me !",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -2.0,
+        -2.0,
+        1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_94281.1",
+      "text": "You bring up an interesting point .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_48819.1",
+      "text": "to teach in the system .",
+      "avg_formal": -1.75,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_69401.0",
+      "text": "Bob , thanks for the alum news .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_65872.2",
+      "text": "We can do a conference call anytime .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_55038.0",
+      "text": "Features Health",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_16768.5",
+      "text": "By choice .",
+      "avg_formal": -1.5,
+      "votes_formal": [
+        -3.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_78253.1",
+      "text": "In my American Government class we were assigned projects having to do with the election process of our state .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_24430.4",
+      "text": "Please help us include the Autism Insurance Bill .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_66158.0",
+      "text": "Governor , Katie asked me to update you on the latest statistics on state employee reemployment efforts .",
+      "avg_formal": 2.6,
+      "votes_formal": [
+        1.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_60534.1",
+      "text": "Perhaps , but I hope not .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_29240.0",
+      "text": "Your editorial claims that Florida 's school grading methodology \" produces predictable results . \"",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_16768.3",
+      "text": "No doubt you have , and will again live in a community with Deed Restriction .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -2.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_110241.4",
+      "text": "Bea Fowler P.S.",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_99019.4",
+      "text": "You have my blessing to forward this to Matt for any suggestions that he might have , also .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_123840.1",
+      "text": "To establish Alternative Dispute Resolution for legitimate complaints from residents of planned developments .",
+      "avg_formal": 2.4,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_47503.0",
+      "text": "Last year Miami - Dade County had an estimated 1,500 admissions for Sickle Cell patients and these patients spent 12,000 days in the hospital .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        0.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_30292.1",
+      "text": "In 2001 it ranked 4 on California 's Academic Performance Index ( API ) 1 to 10 scale , 10 being best .",
+      "avg_formal": 1.5,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_72925.2",
+      "text": "I will brief you at our Monday meeting .",
+      "avg_formal": 1.75,
+      "votes_formal": [
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_48819.3",
+      "text": "2 . In Bill Vogel 's opinion , the St. Lucie County School District was going to lose several teachers to the same problem my wife was encountering .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_23924.0",
+      "text": "Espero que todo te este marchando bien .",
+      "avg_formal": -2.0,
+      "votes_formal": [
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_27439.0",
+      "text": "< < WhyThird.rtf > > < < Bartke to Mallot Letter 0606-02.PDF",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -2.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_35170.1",
+      "text": "They are in the process of doing this now .",
+      "avg_formal": 0.6,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_29210.1",
+      "text": "They had three children , and the youngest was Matt 's maternal grandfather , Joe .",
+      "avg_formal": -0.6,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_97385.1",
+      "text": "This committee went into action already .",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_32226.1",
+      "text": "Barnett@dep.state.fl.us writes :",
+      "avg_formal": 1.0,
+      "votes_formal": [
+        -1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_11615.5",
+      "text": "In fact , in the opinion of this writer our area will be even worse off than under Hubbell , look out Local Sources First .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_54532.1",
+      "text": "Our goal is STOP this tragic homeless pet euthanasia rate in Florida , not to just throw money at the problem , by sending money to government animal control agencies in a cycle of ineffectiveness .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_105725.2",
+      "text": "And though these people will be prosecuted in federal court and sent to federal prison , Florida does at least occasionally take these type of criminals into our prison systems .",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_79002.1",
+      "text": "< jeb@jeb.org > 04/28/99 10:17PM > > > thanks T.K. I will look at the bill next week .",
+      "avg_formal": -1.75,
+      "votes_formal": [
+        -2.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_89162.2",
+      "text": "Your note made a big impression at a critical time in his life --- thank you .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_96579.1",
+      "text": "It is in two formats , WordPerfect and Microsoft Word .",
+      "avg_formal": 0.5,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_30948.2",
+      "text": "To date this charge has not been processed .",
+      "avg_formal": 2.2,
+      "votes_formal": [
+        1.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_17518.4",
+      "text": "Do you think we should complete a Level 1 FDLE and a credit check on the > four interim county commissioners ?",
+      "avg_formal": 1.25,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_108878.2",
+      "text": "This is very important to start now .",
+      "avg_formal": -0.25,
+      "votes_formal": [
+        -3.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_28301.1",
+      "text": "Many of us are grieving over the loss of Diane and she will remain a beloved and trusted friend .",
+      "avg_formal": 0.8,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_93583.1",
+      "text": "The data requirements relating to quality , safety and efficacy are not reduced , therefore the time to licence approval will be the same .",
+      "avg_formal": 2.25,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_76716.1",
+      "text": "In the last Congress , members of both the House and Senate worked hard to bring all sides together to pass the rauthorization of IDEA.",
+      "avg_formal": 1.6,
+      "votes_formal": [
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_105175.3",
+      "text": "Perhaps if you are unable to be w/ us physically , you can participate through video conferencing .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_26314.4",
+      "text": "This service would cost the taxpayers nothing , that 's right , not one red penny .",
+      "avg_formal": -1.0,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_97403.0",
+      "text": "for affordable housing by individuals with disabilities ; and the sharing of initiatives to address these housing needs with local governments .",
+      "avg_formal": 1.4,
+      "votes_formal": [
+        -1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_112153.1",
+      "text": "Did you not get it ?",
+      "avg_formal": -2.2,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "prediction": 0,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_124309.1",
+      "text": "I see kids that act up in school and disrupt the class and are sent to the office just to follow the assistant Principal around all day .",
+      "avg_formal": 0.4,
+      "votes_formal": [
+        -2.0,
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_107720.1",
+      "text": "This is government gone crazy , and I must confess that it even makes me wonder what the sense is in all this .",
+      "avg_formal": -1.5,
+      "votes_formal": [
+        -3.0,
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_23995.3",
+      "text": "but she will give you the details .",
+      "avg_formal": -1.6,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -3.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_51609.0",
+      "text": "Bob Cline and Gov. Bush...my hats off to both of you for trying and trying and trying...so far the first 6 months I have paid my malpractice premium of $ 25,000 and have netted over that time $ 3200...can't stay in business like this since I am only working part time , 20 hrs a week .",
+      "avg_formal": -0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_13912.0",
+      "text": "I know this is the subject of much talk and has everybody in a lather .",
+      "avg_formal": 0.2,
+      "votes_formal": [
+        -2.0,
+        -1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_50759.0",
+      "text": "1 . Disabling System Restore ( Windows Me/XP )",
+      "avg_formal": 0.333333333333,
+      "votes_formal": [
+        -3.0,
+        1.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_114481.0",
+      "text": "In His service , Meredith Raney http://www.forerunner.com/fyi Abortion Industry in Melbourne , FL Eph .",
+      "avg_formal": 0.0,
+      "votes_formal": [
+        -1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_17529.1",
+      "text": "I thought it was GREAT !",
+      "avg_formal": -2.66666666667,
+      "votes_formal": [
+        -3.0,
+        -3.0,
+        -2.0
+      ],
+      "prediction": 1,
+      "binary_label": 0
+    },
+    {
+      "id": "JebBush_61887.0",
+      "text": "Governor , With all due respect , how can we keep developing in areas such as Pinellas and Hillsborough , and at the same time have to use water police that issue tickets to people watering even potted plants ?",
+      "avg_formal": 2.0,
+      "votes_formal": [
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    },
+    {
+      "id": "JebBush_6062.4",
+      "text": "I sincerely hope that you and the cabinet would support this sound & fair business practice .",
+      "avg_formal": 1.8,
+      "votes_formal": [
+        1.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "prediction": 1,
+      "binary_label": 1
+    }
+  ]
+}
