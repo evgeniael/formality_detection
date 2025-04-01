@@ -1,6 +1,7 @@
 # Evaluating formality detection models
 
- This repository contains code for evaluating two different models on the task of classifying a sentence as formal or informal. A report on the methodology, results and findings can be found here.
+ This repository contains code for evaluating two different models on the task of classifying a sentence as formal or informal. A report on the methodology, results and findings can be found here ([Formality_Detection_Report.pdf](https://github.com/user-attachments/files/19548601/Formality_Detection_Report.pdf)
+).
 
  The `data` folder contains the original dataset used to create the test set employed in this study.
  The `eval_formal` folder contains all scripts used for: 
