@@ -22,11 +22,15 @@
 
 An example:
 
-`python3.11 /formality_detection/eval_formal/predictions.py --dataset answers --prompt normal_prompt --model m-deberta`
+```
+python3.11 /formality_detection/eval_formal/predictions.py --dataset answers --prompt normal_prompt --model m-deberta
+```
 
 After running this script, to obtain the evaluation performance metrics for the models, you need to pass the previous arguments and an argument that decides how the gold label from the raw datasets are binarised (either `avg_sign`, `maj_sign` or `sample_sign`(default); for details on each, refer to the report). 
 
 Continuing the above example:
 
-`python3.11 /formality_detection/eval_formal/evaluate.py --dataset answers --prompt normal_prompt --model m-deberta --gold_label_transform avg_sign`
+```
+python3.11 /formality_detection/eval_formal/evaluate.py --dataset answers --prompt normal_prompt --model m-deberta --gold_label_transform avg_sign
+```
 
