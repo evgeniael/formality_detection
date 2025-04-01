@@ -24,7 +24,7 @@ source fdenv/bin/activate
 python3.11 -m pip install -r PATH_TO/requirements.txt
 ```
 
- (2) When running the scripts, you will need to pass relevant arguments relevant to the results you want to obtain. To generate the predictions, you need to choose the `dataset` you want to investigate (either `answers` or `email` (default)), the `model` you want to use for prediction (for now, the code supports 2 models, `mistral-12b` (which relates to [this](https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407) model) and `m-deberta`(default; relates to [this](https://huggingface.co/s-nlp/deberta-large-formality-ranker) model), and the type of `prompt` needed for the model (`normal_prompt` (default) for a fine-tuned model or `instruction_prompt` for an instruction-tuned general purpose model).
+ (2) When running the scripts, you will need to pass relevant arguments relevant to the results you want to obtain. To **generate the predictions**, you need to choose the `dataset` you want to investigate (either `answers` or `email` (default)), the `model` you want to use for prediction (for now, the code supports 2 models, `mistral-12b` (which relates to [this](https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407) model) and `m-deberta`(default; relates to [this](https://huggingface.co/s-nlp/deberta-large-formality-ranker) model), and the type of `prompt` needed for the model (`normal_prompt` (default) for a fine-tuned model need to use for `m-deberta`) or `instruction_prompt` for an instruction-tuned model (use for `mistral-12b`)).
 
 An example, where you need to replace `PATH_TO` with the path to the `formality_detection` folder on your local device:
 
@@ -32,7 +32,7 @@ An example, where you need to replace `PATH_TO` with the path to the `formality_
 python3.11 PATH_TO/formality_detection/eval_formal/predictions.py --dataset answers --prompt normal_prompt --model m-deberta
 ```
 
-After running this script, to obtain the evaluation performance metrics for the models, you need to pass the previous arguments and an argument that decides how the gold label from the raw datasets are binarised (either `avg_sign`, `maj_sign` or `sample_sign`(default); for details on each, refer to the report). 
+After running this script, to **obtain the evaluation performance metrics** for the models, you need to pass the previous arguments and an argument that decides how the gold label from the raw datasets are binarised (either `avg_sign`, `maj_sign` or `sample_sign`(default); for details on each, refer to the report). 
 
 Continuing the above example:
 
