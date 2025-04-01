@@ -21,7 +21,7 @@
 ```
 python3.11 -m venv "fdenv"
 source fdenv/bin/activate
-python3.11 -m pip install -r /PATH_TO/requirements.txt
+python3.11 -m pip install -r PATH_TO/requirements.txt
 ```
 
  (2) When running the scripts, you will need to pass relevant arguments relevant to the results you want to obtain. To generate the predictions, you need to choose the `dataset` you want to investigate (either `answers` or `email` (default)), the `model` you want to use for prediction (for now, the code supports 2 models, `mistral-12b` (which relates to [this](https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407) model) and `m-deberta`(default; relates to [this](https://huggingface.co/s-nlp/deberta-large-formality-ranker) model), and the type of `prompt` needed for the model (`normal_prompt` (default) for a fine-tuned model or `instruction_prompt` for an instruction-tuned general purpose model).
